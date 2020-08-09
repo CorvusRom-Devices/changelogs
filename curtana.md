@@ -11,5 +11,5 @@
 - Set default Hotspot SSID
 
 Notes:
-• GApps inbuilt
-• Base FW required : MIUI 11.0.9.0 at least
+- GApps inbuilt
+- Base FW required : MIUI 11.0.9.0 at least
