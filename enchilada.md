@@ -1,6 +1,6 @@
-<b>Device Changelog:</b>
+# OnePlus 6 Enchilada
 
-<h5>Corvus V8.0</h5>
+## Corvus V8.0
 
 - BoardConfig: Sync boot image header with OOS
 - Update to Coral's Aug fingerprint
