@@ -1,0 +1,6 @@
+- Fix AOD brightness
+- Fix smart charging
+- Add pixel screen off animation
+- Bump minimum required framework to 12.0.3
+- Remove NFC for Indian devices
+- Build Audio hal from source
