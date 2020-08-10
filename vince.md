@@ -1,0 +1,21 @@
+- Switched to QTI power hal
+- Reverted AOSP SurfaceFlinger
+- Disabled ringtone focus mode
+- Added parameters for hotspot 2.0
+- Increased max BSS count
+- Added sound trigger implementer version
+- Enabled AOSP low latency in audio output config
+- Updated QTI telephony stack
+- Updated carrier config overlays
+- Enabled IMS feature flags for supported carriers
+- Fixes in mixer paths
+- Fixes for treble
+- Addressed SELinux denials
+- Screen Recorder tweak ( should lag less )
+- Disable Fluence
+- Better Ram management
+- Address some denials
+- Battery Health should be fixed
+- Enable AOSP Surface flinger
+- Upstream Kernel to 4.9.232
+- August Coral Fingerprint
