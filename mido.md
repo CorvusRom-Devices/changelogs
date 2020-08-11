@@ -42,7 +42,7 @@
 - Update GPU driver to  OpenGL-V@474.0 and Vulkan 1.1.128 drivers
 - Update Charger, qti-telephony, IMS, Performance stack and many more
 - Probably dirty flash will not remove retro music player
-- Fixed Dirac, anded in both xiamiparts and sound section. :-D
+- Fixed Dirac, added in both xiamiparts and sound section. :-D
 
 ## Corvus v7.5
 
