@@ -38,7 +38,7 @@
 - Fix lockscreen charging stats
 - Allow 120fps video recording
 - Fast charging limit by 5°C than stock one
-- Xiaomiparts: Optimized spectrum balance, gaming, performance and Ultra Balance profile for PureCAFx.
+- Xiaomiparts: Optimized spectrum balance, gaming, performance and Ultra Battery profile for PureCAFx.
 - Update GPU driver to  OpenGL-V@474.0 and Vulkan 1.1.128 drivers
 - Update Charger, qti-telephony, IMS, Performance stack and many more
 - Probably dirty flash will not remove retro music player
