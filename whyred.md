@@ -10,12 +10,9 @@ MiuiCamera
 
 Old Camera Blobs
 
-- Updated Fingerprint To Coral August Security Patch
-- Enable LiveDisplay
-- Fix issues with UFO Vpn
-- Switch to QTI bt stack and enable a2dp offload
-- Add Oneplus Recorder
-- BringBack Xiaomi Parts(Under Settings)
+- Update To T-Engine V5 Beta(Thanks to K1ks)
+- Update EAS PerfConfig(No Need to Flash Module)
+- Fix Broken Screen off Torch+Ambient DT2W Issues
 - Extended Hmp Kernel
 - Upstreamed To Latest Sources
 
