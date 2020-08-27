@@ -2,6 +2,7 @@ Read Before Flashing
 
 Note:-
 Use Bitgapps or Open Gapps
+
 Use TWRP 3.4.0 or PB recovery for flash. 
 If you face compatibility error with OrangeFox then remove compatibility from zip folder.
 
