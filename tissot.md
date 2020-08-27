@@ -1,12 +1,8 @@
 Device Changelog:
 
-Corvus V8.0
+Corvus V8.5 | Sage
 
-- Removed Lineage Recorder
-- Added OnePlus Screen Recorder
-- Upgrade PowerHAL to 1.2
-- Kernel Upstream to v4.9.232
-- Build Kernel with Proton-Clang 12.0
-- Fixed Battery Info on Settings
-- Removed Via Browser
-- Added Maintainer Name
+Added TWRP
+Added Moto Dolby
+Revert Proton Clang
+Kernel Upstream to v4.9.233
