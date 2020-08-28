@@ -1,27 +1,15 @@
 Changelog:
 
-- Fixed battery Health info in Settings.
+- Fixed Night Light. Now working fine.
 
-- Fixed freezing issues.
+- Fixed ScreenOff touch gestures. Now Every gesture works.
 
-- Updated gps from LA.UM.8.2.r1-07100-sdm660.0.
+- Stock PI kernel Upstreamed to v4.4.234.
 
-- Dropped corvus parts and Added 
-
-  Zenparts with new features
-
-- Enforcing build and Safteynet passing 
-
-  without magisk.
-
-- Increased audio output from speaker and
-
-  Earphone with clarity.
-
-- Update Build FP to latest Coral FP.
-
-- Some improvements under the hood.
+- Added sound control features in kernel.
 
 Notes:
 
-• Use firmware 060 for best audio quality.
+• Use firmware 060-084 for best audio quality.
+
+• If getting freezes then change the kernel.
