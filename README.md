@@ -1,30 +1,19 @@
 # CorvusOS Changelog
 
-## v8.0 (2020.08.06)
-- Merged August security patch (r41)
-- Version bumped to 8.0-Tsushima
-- Updated our logo in about phone
-- Updated some settings animations (Thanks to BlissROMs)
-- Updated Google sans
-- Added touch response optimizations
-- Added custom Spidey analog clock
-- Fixed system ui FC for some devices while using ls charging info
-- Removed retro music player
-- Removed boost framework 
-- Reworked Raven's lair to make it look more beautiful
-- Added option to customize thickness of navbar
-- Added SElinux switch
-- Added option to select network traffic fonts
-- Updated toasts animations
-- Updated cellular tile from oos
-- Redesigned battery meter in settings
-- Improved layout of settings
-- Added option to configure lockscreen timeout
-- Added option to show clipboard access toast
-- Updated our branding format
-- Brought back maintainer info in about phone
-- Added support for custom proximity and tilt sensors
-- Added option for wake the screen instead of pulsing
-- Updated battery icon in settings dashboard
-- Added phone specifications section in about phone
-- Fixed some memory leaks, dead locks and lot more aesthetic improvements
+## v8.5 (2020.08.24)
+- Version bumped to 8.5-Sage
+- Added Quick QS Brightness Slider
+- Added Music Card in Volume Panel (beta stage)
+- Added OOS Compact VoLTE & VoWifi icons
+- Added option to center "R style" notification headers
+- Added back button for the freeform window
+- Added burn-in protection for custom clocks
+- Added support for legacy apps to scale fully to the display's aspect ratio
+- Added OnePlus icon for auto-brightness icon
+- Fixed list-style alert dialog to use system font
+- Improved Upload and Download Animations
+- Decreased margin between QS and text
+- Fixed QS footer divider width
+- Fixed QS tiles clipping when too many icons in view
+- Fixed Network Traffic visibility
+- Many more underhood changes and fixes check here (review.corvusrom.com)

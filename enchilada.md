@@ -17,3 +17,10 @@
 - add corvus maintainer string
 - Kernel Updated to Latest
 
+## Corvus v7.5
+
+- Add support for Battery Health
+- Fix status bar padding
+- Enabled physicalDisplayCutout for dual status bar
+- enable unspecialized app process pool
+- Kernel Updates
