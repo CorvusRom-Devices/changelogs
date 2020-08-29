@@ -1,6 +1,9 @@
-- Fix AOD brightness
-- Fix smart charging
-- Add pixel screen off animation
-- Bump minimum required framework to 12.0.3
-- Remove NFC for Indian devices
-- Build Audio hal from source
+#Changelog V8.5
+
+1. Fix speaker on calls.
+2. Added back livedisplay 
+3. Added FPS tile
+4. Switched to vantom kernel
+5. Added libperf
+
+Note: Clean flash if you are facing any audio related issues.
