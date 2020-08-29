@@ -1,19 +1,9 @@
--Added Battery Health Overlays 
+* Added Lottie animations in Moto Actions
 
--Added Adaptive sleep overlays 
+* Interactive gov as default
 
--Updated Vendor blobs 
+* Switch to old kernel
 
--Updated Camera Libs 
+* Config for media swcodec
 
--Updated Graphic Blobs 
-
--Updated GPU drivers
-
--Fixed FM/Radio
-
--Fixed Offline charging 
-
--Merge latest tags in Kernel
-
--Misc Improvements
+* Misc Improvements
