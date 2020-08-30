@@ -1,5 +1,44 @@
 # Redmi Note 4x Mido
 
+## Corvus v8.5
+
+- Removed dolby audio
+- Fixed burn in issue in tianma and boe display with optimum value. (not 237, :-p )
+  So no need to use any kcal things anymore :-) 
+- Fixed smart charging finally
+- Added prebuilt YMusic
+- Xiaomiparts: Spectrum: Fixed gaming profile gpu lock, and ardenoboost mismatch
+- Xiaomiparts: Spectrum: Removed performance profile and introduced stock profile. Enjoy less heating :-)
+- Xiaomiparts: Spectrum: Made battery and ultra battery more effecient. 
+- Import missing library (libspl.so)
+- Removed some leftover 4.9 kernel stuffs
+- Build sqlite3
+- Rounder  corner in Gboard and no navbar spacing 
+- Enable VOLTE for Bangladesh(All networks), Vietnam(Mobifone, Viettel), Indonesia(Telkomsel)
+- Support ViLTE for carrier Smartfren (Indonesia)
+- Added live display
+- Advanced power menu = turned on and 
+  Screenshot on power botton =turn off  by default (need to go once in ravens lair>powermenu to work :-p)
+- Used Pixel 4 cpusets config
+- Charging increased upto 7 degee celcious than stock one (extra 2'C than v8.0)
+- Used more cores for faster app installation
+- Blacklist google hotword service
+- Add "Built-In (Back) Mic" to "primary input" sink
+- XiaomiParts: fix Vibration strength reset to default after reboot
+- Add HDR in HAL3
+- Build missing camera library
+- Shorten shutdown time
+- Allow QfingerprintService to run in power save
+- Allocate enough buffer for HDR snapshot
+- Wifi Bonding For 2.4ghz band
+- Smarter decisions on whether to use a 2GHz or 5Ghz AP
+- Update qti-whitelist.xml from LA.UM.8.6.r1-04700-89xx.0
+- Update privapp-permission-qti from LA.UM.8.6.r1-04700-89xx.0
+- Made the UI smoother
+- Update Vulkan hardware level supported to 1
+
+Special thanks to Kingsman44 brother and all the devs,testers & users who helped me for these changelogs <3
+
 ## Corvus V8.0
 
 - Changed default kernel to PureCAFx (3.18.140), thanks to  Rafi brother. 
