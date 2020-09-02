@@ -1,5 +1,9 @@
 # OnePlus 6 Enchilada
 
+## Corvus V8.5
+
+- None
+
 ## Corvus V8.0
 
 - BoardConfig: Sync boot image header with OOS
