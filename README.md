@@ -1,19 +1,29 @@
 # CorvusOS Changelog
 
 ## v8.5 (2020.08.24)
-- Version bumped to 8.5-Sage
-- Added Quick QS Brightness Slider
-- Added Music Card in Volume Panel (beta stage)
-- Added OOS Compact VoLTE & VoWifi icons
-- Added option to center "R style" notification headers
-- Added back button for the freeform window
-- Added burn-in protection for custom clocks
-- Added support for legacy apps to scale fully to the display's aspect ratio
-- Added OnePlus icon for auto-brightness icon
-- Fixed list-style alert dialog to use system font
-- Improved Upload and Download Animations
-- Decreased margin between QS and text
-- Fixed QS footer divider width
-- Fixed QS tiles clipping when too many icons in view
-- Fixed Network Traffic visibility
-- Many more underhood changes and fixes check here (review.corvusrom.com)
+- Merged September Security Patch
+- Bumped to the EndGame 9.0
+- Added More QS Tile Styles (OOS, Divided & Cosmos)
+- Added toggle for carrier group visibility
+- Updated QS tile icons (Airplane Mode, Dark Mode, Data Saver, Flashlight & Mobile Data)
+- Added some new Headers (One-piece Anime pack, Hunter x Hunter, Shingeki no Kyojin, Kimetsu no Yaiba, My Hero Academia)
+- Added Mi 10 Ultra FOD animations
+- Beautify airplane & mobile data icons
+- Imported back arrow from OOS
+- Added Option to use linear scale in BrightnessController
+- Redesign some drawables in Settings
+- Fixed crash when uninstalling apps with fragile data
+- Fingerprint: fix client was canceled by service by mistake
+- TaskHelper: allowed to get foreground app label
+- Fixed QS tile layout w.r.t detail view expand button
+- Made QS security footer color consistent with the panel
+- Added policy-based firewall in the security tab
+- Fixed CDM.requestNotificationAccess() in profile
+- Fixed NPE on global actions dialog
+- Fixed status bar battery level padding
+- Updated Translations RU & PT-BR to Raven's Lair
+- Removed NEON matrix procs
+- Improved backwards memmove performance
+- Benchmark unaligned memmove
+- Reverted bool to ignore icon space reserved in Settings
+- Many more underhood changes and fixes check on gerrit
