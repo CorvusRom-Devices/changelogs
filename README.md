@@ -1,6 +1,6 @@
 # CorvusOS Changelog
 
-## v8.5 (2020.08.24)
+## v9.0 (2020.09.12)
 - Merged September Security Patch
 - Bumped to the EndGame 9.0
 - Added More QS Tile Styles (OOS, Divided & Cosmos)
