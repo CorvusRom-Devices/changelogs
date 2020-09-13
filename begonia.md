@@ -1,5 +1,12 @@
 ## REDMI NOTE 8 PRO
 
+# CORVUS V9.0
+- Upstreamed Kernel to v4.14.197+ I guess
+- Deep sleep fixed and nothing more changed I guess
+- it's pretty stable already so yeh 
+- Hope You Like Maibe Last A10 Build
+- Epic 
+
 # CORVUS V8.5
 
 Device Changelog:
