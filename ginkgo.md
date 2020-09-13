@@ -17,6 +17,6 @@
 
 - Performance tweaks & Improvements.
 
-- Many More Fixed And Changes
+- Fixed Call Freezing Issue 
 
 
