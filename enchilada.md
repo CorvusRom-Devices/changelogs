@@ -1,5 +1,14 @@
 # OnePlus 6 Enchilada
 
+# Corvus V9.0
+
+- Update to Coral's Sep fingerprint
+- Upstreamed kernel to v4.4.235.
+- Added automatic High brightness mode in CorvusParts.
+- Beautify CorvusParts a bit.
+- Added Vibrate Feedback in Vibrator.
+- Added Pixel Walls.
+
 ## Corvus V8.5
 
 - None
