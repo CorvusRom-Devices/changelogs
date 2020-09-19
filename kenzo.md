@@ -11,6 +11,9 @@
 * Added performance configs (Add Resume, WebView, Drag, PackageInstall boost, added timeout to vertical and horizontal scroll, reduced timeout for app launch boost (disabling packing) to 1.5 sec)
 * Added joystick support config
 
+NOTE: 
+*Clean Flash (with format Data) is Mandatory !
+
 ♦️ Corvus OS v8.5 Changelogs ♦️
 - Same as of v8.0 as v8 never released
 
