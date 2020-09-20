@@ -1,22 +1,26 @@
 Read Before Flashing
 
 Note:-
-Use Bitgapps or Open Gapps
+Use Bitgapps for better result.
 
 Use TWRP 3.4.0 or PB recovery for flash. 
 If you face compatibility error with OrangeFox then remove compatibility from zip folder.
 
 Device Changelog:
 
-•Tune cpusets.
+•Updated Some Blobs.
 
-•Switch to Rockstar Kernel.
+•Used Rockstar Kernel.
 
-•Cleanup rootdirUpdate shell scripts from LA.UM.8.6.2.r1-08100-89xx.0.
+•Uprev powerHintAsync to 1.2.
 
 •Some other improvements.
 
+•Fixed Mi-Sound Enhancer.
 
+•Fixed Gcam Crash Issue.
+
+•Tried to Fix Animation Lags. If You Still Face Set Animation From Developer Option to Lower Stat.
 
 
 
