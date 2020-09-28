@@ -10,7 +10,7 @@ Device Changelog:
 
 •Updated Some Blobs.
 
-•Used Rockstar Kernel.
+•Used Luuvy Kernel.
 
 •Uprev powerHintAsync to 1.2.
 
