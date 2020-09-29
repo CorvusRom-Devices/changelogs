@@ -1,5 +1,16 @@
 ## ZenFone Max Pro M1
 
+# CORVUS V9.5
+Device Changelog:
+- Upstreamed kernel to v4.4.237.
+- Fixed video crash issue.
+- Fixed voice recording issue.
+- Inbuild PI-HMP kernel.
+- More performance improvement.
+
+Notes:
+• Use firmware 082-087 for best audio quality and other stuffs.
+
 # CORVUS V9.0
 Device Changelog:
 - Update Build FP to latest Coral FP.
