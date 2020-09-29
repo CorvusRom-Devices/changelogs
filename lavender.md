@@ -1,6 +1,7 @@
 29-09-2020
 
 Device Changelog:
+
 • Update Fingerprint to Coral Sep patch (cts profile fix)
 
 • Kernel updated to 4.4.237
