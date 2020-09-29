@@ -1,14 +1,30 @@
-13-09-2020
+29-09-2020
 
-• Improvements in system fluidity
+Device Changelog:
+• Update Fingerprint to Coral Sep patch (cts profile fix)
 
-• LiveDisplay and Night mode fixed
+• Kernel updated to 4.4.237
 
-• Added XiaomiParts with fps info and kcal
+• Update OpenGL drivers to defaut (415) stable
 
-• Added pt-br transactions for XiaomiParts
+♦️ Corvus OS v9.5 Changelogs ♦️
 
-• Update blobs OpenGL ES 3.2 V@0490.0 and Vulkan 1.1.128 (5.5)
+- Bumped to the EndGame 9.5
 
-• Kernel Updated to 4.4.236
+- Added AppLock from PA
 
+- Adjusted the layout for FOD devices
+
+- Added support to register vendor pocket sensor
+
+- Added custom config to force custom doze brightness
+
+- Fixed client was cancelled by service by mistake
+
+- Fixed QS Tiles names
+
+- Fixed FOD Animations misplace
+
+- BiometricDialogView: Fixed missing package manager member
+
+- And many more core optimizations and fixes
