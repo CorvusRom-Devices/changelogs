@@ -1,5 +1,22 @@
 ==>> ♦️ Changelogs from device side ♦️ <<==
 
+♦️ Corvus OS v9.0 Changelogs ♦️
+* Fixed Hi-Res Audio 24bit/19kHz
+* Fixed one random reboot issue
+* Updated keystore blob from F5122 34.4.A.2.118 CIS RU-UA-KZ-BY (Fixes ls-bug)
+* Decommonized and reworked DT
+* Replaced chargeonlymode binarie with charger service
+* Added new offline charging animation
+* Added new performance blobs
+* Added performance configs (Add Resume, WebView, Drag, PackageInstall boost, added timeout to vertical and horizontal scroll, reduced timeout for app launch boost (disabling packing) to 1.5 sec)
+* Added joystick support config
+
+NOTE: 
+*Clean Flash (with format Data) is Mandatory !
+
+♦️ Corvus OS v8.5 Changelogs ♦️
+- Same as of v8.0 as v8 never released
+
 ♦️ Corvus OS v8.0 Changelogs ♦️
 - Fixed Smart Charging
 - Fixed Bluetooth Calls

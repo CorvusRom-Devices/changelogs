@@ -10,9 +10,12 @@ MiuiCamera
 
 Old Camera Blobs
 
-- Update To T-Engine V5 Beta(Thanks to K1ks)
-- Update EAS PerfConfig(No Need to Flash Module)
-- Fix Broken Screen off Torch+Ambient DT2W Issues
-- Extended Hmp Kernel
+- Update Build Fingerprint From Coral's Sept Release
+- Sync Adreno Blobs v454 With latest release(Thanks to Adreno Team for there work)
+- Nuke Kimcy Recorder(Was Troubling with some apps..Download from Playstore)
+- Switch Channel in MemeCam For Better Camera Recording Quality(Thanks to lcdkhoa for the idea)
+- Add few missing mic path
+- Add missing hph-lowpower-mode path
+- Extended Eas Kernel
 - Upstreamed To Latest Sources
 

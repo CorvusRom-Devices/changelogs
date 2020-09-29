@@ -1,8 +1,11 @@
- Xiaomi Poco X2 (Corvus v8.5)
+ Xiaomi Poco X2 (Corvus v9)
 
 #####Device changelogs:#####
-- Build with Proton clang
-- Upstreamed kernel to 4.14.195
-- Bt stack qti implementation
-- Performance and Battery improvements
-- Fixed 960 fps slow motion glitch
+- Build with Latest Proton clang
+- Latest HR kernel v3.2
+- fast charging fixed
+- whatsapp low mic issue fixed
+- removed thermal profiles from battery settings
+- removed and cleaned up few more unnecessary bloats
+- optimizations
+- 

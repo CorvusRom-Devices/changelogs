@@ -1,8 +1,6 @@
 Device Changelog:
 
-Corvus V8.5 | Sage
+Corvus V9.0 | EndGame
 
-- Added TWRP
-- Added Moto Dolby
-- Revert Proton Clang
-- Kernel Upstream to v4.9.233
+- Build Kernel with Proton Clang
+- Kernel Upstream to v4.9.235
