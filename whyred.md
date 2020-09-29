@@ -6,16 +6,13 @@ Note:-
 
 *For Pitchblack/Twrp Users(Use the latest available)
 
-MiuiCamera
+*EasPerf Module is already included in rom(Thanks to Uvera for eas perf module)
 
+*Camera
 Old Camera Blobs
 
-- Update Build Fingerprint From Coral's Sept Release
-- Sync Adreno Blobs v454 With latest release(Thanks to Adreno Team for there work)
-- Nuke Kimcy Recorder(Was Troubling with some apps..Download from Playstore)
-- Switch Channel in MemeCam For Better Camera Recording Quality(Thanks to lcdkhoa for the idea)
-- Add few missing mic path
-- Add missing hph-lowpower-mode path
+- Add missing quad-mic audio path
+- Updated Thermals to T-engine v6 beta(Thanks to K1ks)
 - Extended Eas Kernel
 - Upstreamed To Latest Sources
 
