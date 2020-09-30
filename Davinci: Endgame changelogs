@@ -1,8 +1,0 @@
-#Changelog V9.0
-
-1. Adapted zram from pixel 4a
-2. Fixed WiFi issues for some users
-3. Adapt stuff from sunfish
-4. Experimental Arian kernel/ New LED changes
-
-Note: Clean flash if you are facing any audio related issues.
