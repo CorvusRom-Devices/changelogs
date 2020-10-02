@@ -1,5 +1,15 @@
 ==>> ♦️ Changelogs from device side ♦️ <<==
 
+♦️ Corvus OS v9.5 Changelogs ♦️
+* Downgrade Prima to LA.BR.1.3.6_rb1.19.
+* Fixed a lot of my mistakes.
+* Disabled ALMK.
+* Enabled ported ZRAM driver from 4.18.xxx.
+* Corrected LMK Profiles (fixes apps being killed to early on 2gb device variant)
+* Increased ZRAM (Fixes apps crashing for 2GB device variant)
+* Added config to use new Deep Sleep level for WiFi.
+* Enabled 400MHz core frequencies .
+
 ♦️ Corvus OS v9.0 Changelogs ♦️
 * Fixed Hi-Res Audio 24bit/19kHz
 * Fixed one random reboot issue
