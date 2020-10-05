@@ -4,12 +4,9 @@
 
 - Source Upstream
 - Kernel Upstream
-- Switch to M4ST3R Kernel
 - Optimized Powerhint
-- Update Coral FP to September
-- Fix Random Dolby Glitches
-- Fix Random Heavy Battery Drain Issues
-- Address Denials and Sepolicy Fixes
-- Enable Seamless Transfer (Switch Output Device From Music App Notification)
+- Remove Prebuilt Dolby as Many People Didn't Like It
+- Improved Boot Time
 - Boosted Performance and Improved Smoothness
 - Various Other Improvements and Fixes
+- Probably Final Build Of A10
