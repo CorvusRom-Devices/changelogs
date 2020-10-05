@@ -1,6 +1,6 @@
 # Redmi Note 7 Pro Violet
 
-## Corvus V9.0
+## Corvus V9.5
 
 - Source Upstream
 - Kernel Upstream
