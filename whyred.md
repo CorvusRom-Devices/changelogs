@@ -11,8 +11,8 @@ Note:-
 *Camera
 Old Camera Blobs
 
-- Add missing quad-mic audio path
-- Updated Thermals to T-engine v6 beta(Thanks to K1ks)
+- Update Build Fingerprint from Coral's Oct Release
+- Enable Volte for Smartfre Indonesian Carrier
 - Extended Eas Kernel
 - Upstreamed To Latest Sources
 
