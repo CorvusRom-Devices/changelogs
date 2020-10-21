@@ -1,5 +1,21 @@
 ## ZenFone Max Pro M1
 
+# CORVUS V A10.0
+Device Changelog:
+- Updated fingerprint to Coral October fingerprint.
+- Upstreamed kernel to v4.4.240.
+- Fast charging improvements.
+- Camera focus improvements.
+- Updated Google Camera Go to version 1.8.332394960.
+- Inbuild PI-HMP kernel and spectrum changes.
+- Fixed voice recording issue for some devices.
+- Fixed screen recording issue for both Screen Recorders.
+- Some more improvements under the hood.
+
+Notes:
+• If anything crash then clean flash.
+• Use firmware between 060 and 084 for best audio quality.
+
 # CORVUS V9.5
 Device Changelog:
 - Upstreamed kernel to v4.4.237.
