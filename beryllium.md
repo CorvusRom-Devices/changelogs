@@ -1,15 +1,15 @@
-• Updated Fingerprint To Coral August Security Patch
+• Updated Fingerprint To Coral October Security Patch
 
-• Switched to blueline power profile 
+• Added missing autobrightness overlay
 
-• Switched to pixel thermal hal
+• Updated build desc to latest Miui v12.0.2.0
 
-• Disabled few debug services
+• Added missing GPS config file
 
-• Dont use proximity sensor during doze
+• Localise NTP to improve GPS TTFF
 
-• Switch to pixel power-libperfmgr hal
+• Added Qualcomm's improve touch binaries
 
-• Tweaked powerhint
+• Enabled Freeform Multiwindow
 
-• Updated Dolby
+• Updated vendor security patch to MIUI v12.0.2.0
