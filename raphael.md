@@ -2,6 +2,9 @@
 - Update Fingerprint To Coral's November Security Patch
 - Added perms of hotword blobs
 - Updated signature of hotword apk
+- Fixed CTS.. Safetynet passes without magisk
+- Selinux is permissive
+
 
 ** v9.0-EndGame OSS Changelogs **
 - bump to september coral build fp
