@@ -1,3 +1,8 @@
+** v11.0-Spooky Miui Vendor Changelogs **
+- Update Fingerprint To Coral's November Security Patch
+- Added perms of hotword blobs
+- Updated signature of hotword apk
+
 ** v9.0-EndGame OSS Changelogs **
 - bump to september coral build fp
 - Updated graphics blobs to LA.UM.8.1.r1-15600-sm8150.0
