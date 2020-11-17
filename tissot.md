@@ -1,6 +1,7 @@
 Device Changelog:
 
-Corvus V9.0 | EndGame
+Corvus v11.0 | Spooky
 
-- Build Kernel with Proton Clang
-- Kernel Upstream to v4.9.235
+- Initial Android 11 Build
+- Added Safailnet to pass CTS
+- Permissive Build
