@@ -1,5 +1,9 @@
 # OnePlus 6T Fajita
 
+## Corvus vA10.5
+- November Security Patch
+- Update to Coral's Nov 2020 fingerprint
+
 ## Corvus v9.5
 - Source Upstream
 - Yeah Finally Added OnePlus Camera & OnePlus Gallery
