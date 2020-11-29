@@ -1,5 +1,10 @@
 # OnePlus 6 Enchilada
 
+## Corvus vA10.5
+
+- November Security Patch
+- Update to Coral's Nov 2020 fingerprint
+
 # Corvus v9.5
 
 - Source Upstream
