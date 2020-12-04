@@ -1,5 +1,12 @@
 ==>> ♦️ Changelogs from device side ♦️ <<==
 
+♦️ Corvus OS v10.5 Changelogs ♦️
+* Implemented avoidGfxAccel flag for 2/3GB Variants.
+* Memory Optimizations.
+* Fixed poweroff alarm (experimental).
+* Fixed VoLTE sim Switching Issue (Report if still have problems).
+* Enabled iWlan.
+
 ♦️ Corvus OS v9.5 Changelogs ♦️
 * Downgrade Prima to LA.BR.1.3.6_rb1.19.
 * Fixed a lot of my mistakes.
