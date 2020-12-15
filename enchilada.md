@@ -1,57 +1,34 @@
 # OnePlus 6 Enchilada
 
-## Corvus vA10.5
+## Corvus v12.0 
 
-- November Security Patch
-- Update to Coral's Nov 2020 fingerprint
+- Initial Android 11 Release
+- Kernel Compiled with proton-clang (12.0.0 V)
+- Switch to Redfin's Dec 2020 fingerprint
+- Upstream kernel to 4.9.244
+- Switch to QTI bt stack
+- Switch to DMGC GoogleCamera
+- Overlay: Set Default to Full Gesture Navigation
+- Add AOSP RCS packages
+- SELinux Status: Enforcing
+- Add Pixel Charging Animation on Screen off
+- Add APN and Battery Stats privapp permissions
+- Sepolicy: Address a few more denials
+- Update OnePlus Gallery
+- Removed CorvusParts
+- Removed OnePlusCamera for now
+- Removed BatteryHealth Support
+- Introducing New Device Extras (OnePlus Settings)
+- DeviceSettings: Add Device Extras QS Tile
+- DeviceSettings: Update HBM Tile & Switch on Screen off
+- DeviceSettings: Vibrator: Set defaults to OOS
 
-# Corvus v9.5
+## Broken/Bugs:
 
-- Source Upstream
-- Yeah Finally Added OnePlus Camera & OnePlus Gallery
-- Added Pixel Walls
-- Added OnePlus ScreenRecorder
-- Added Pixel Charging Animation On Screen Off
-- Kernel Build With Clang
-- Removed Google Gallery Go
-- CorvusParts: Change Default Auto HBM Threshold
-- CorvusParts: Fixed Restore of HBM State
-- CorvusParts: Added Haptic Feedback in Vibrator
+- WFD doesn't work
+- OK Google detection doesn't work, assistant works though
+- No Verizon Network Support
 
-# Corvus V9.0
-
-- Update to Coral's Sep fingerprint
-- Upstreamed kernel to v4.4.235.
-- Added automatic High brightness mode in CorvusParts.
-- Beautify CorvusParts a bit.
-- Added Vibrate Feedback in Vibrator.
-- Added Pixel Walls.
-
-## Corvus V8.5
-
-- None
-
-## Corvus V8.0
-
-- BoardConfig: Sync boot image header with OOS
-- Update to Coral's Aug fingerprint
-- DeviceSettings:Update panel mode preview images
-- Add Doze tile
-- DeviceSettings: Introduce doze menu 
-- system.prop: Enable zygote preforking
-- doze: Enable pickup when raise to wake is toggled
-- doze: Introduce raise to wake gesture 
-- overlay: Enable config_liveDisplayAvailable
-- DeviceSettings: Port thermal profiles from Beryllium 
-- DeviceSettings: Add back button to ThermalProfiles 
-- DeviceSettings: Add ThermalProfiles tile 
-- add corvus maintainer string
-- Kernel Updated to Latest
-
-## Corvus v7.5
-
-- Add support for Battery Health
-- Fix status bar padding
-- Enabled physicalDisplayCutout for dual status bar
-- enable unspecialized app process pool
-- Kernel Updates
+## Note:
+- Clean Flash
+- No Twrp Inbuilt
