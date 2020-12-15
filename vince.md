@@ -1,3 +1,2 @@
-- switch to storm breaker
-- fix signal delay after boot 
-- many other changes
+- Back to official
+- Many changes and fixes
