@@ -1,22 +1,19 @@
 # XIAOMI REDMI NOTE 8/8T CHANGELOG
 
-## v9.0 (13.09.2020)
-- Updated fingerprint to Coral R September
-
-- Updated blobs from MIUI China 20.9.2
-
-- Upstreamed Quicksilver Kernel to 4.14.197
-
-- Use ov8856 chromatix libs from stock pie 
-
-- Boosted Speaker Output  .
-
-- Fixed EIS 
-
-- Fixed Gcam HDR+ accelerated processing. 
-
-- Performance tweaks & Improvements.
-
-- Fixed Call Freezing Issue 
-
-
+## v12.0 (15.12.2020)
+- Offline charging bug fixed .
+- Switched to AOSP clang for kernel build .
+- Disabled deprecated configstore .
+- Switched to Quicksilver Kernel upstreamed to v4.14.211 and LA.UM.9.11.r1-02400-NICOBAR.0 .
+- Updated blobs from MIUI 12.0.2 .
+- Added December security patch From Redfin .
+- Added back XiaomiParts With KCAL support .
+- Gcam Hdr Bug fixed .
+- Double Tap To Wake fixed .
+- Fixed Wifi Display ( screen casting ) .
+- Fixed Whatsapp Web QR code scanning issue .
+- Fixed gapps Random reboots .
+- Fixed wired headset buttons .
+- Fixed random reboots in extended 4G sessions .
+- Updated xiaomi parts translations .
+- More improvements and fixes .
