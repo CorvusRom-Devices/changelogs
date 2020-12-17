@@ -1,3 +1,11 @@
+** v12.0-Athrill Miui Vendor Changelogs **
+- Update Fingerprint to Redfin December Security Patch
+- Inlined ANX v185
+- Added Battery Health Support
+- Fixed Device Controls
+- Added Maintainer name in Settings> About Section
+
+
 ** v11.0-Spooky Miui Vendor Changelogs **
 - Update Fingerprint To Coral's November Security Patch
 - Added perms of hotword blobs
