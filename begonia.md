@@ -1,5 +1,12 @@
 ## REDMI NOTE 8 PRO
 
+# CORVUS V12.0
+- Upstreamed Kernel To v4.14.212+
+- Prebuild ANx Cam
+- Synced with latest sources
+- Fixed Sdcard issue which has exFAT Parititon
+- Switched To OSS IMS (Thanks to Zidan & Sahil)
+
 # CORVUS V9.0
 - Upstreamed Kernel to v4.14.197+ I guess
 - Deep sleep fixed and nothing more changed I guess
