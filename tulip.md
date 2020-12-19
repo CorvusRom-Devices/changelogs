@@ -1,7 +1,8 @@
-## ZenFone Max Pro M1
+## Redmi Note 6 Pro
 
 # CORVUS V12.0
 Device Changelog:
+
 • initial build
 • Desable extended audio compress
 • Fix Dt2w
