@@ -1,5 +1,18 @@
 ## ZenFone Max Pro M1
 
+# Corvus Android 10 December
+Device Changelog:
+- Updated fingerprint to Coral December fingerprint.
+- Upstreamed kernel to latest linux version v4.4.248.
+- Update nvt touch drivers and fix gestures not changing issue.
+- Fixed screen recording lag for both Screen Recorders.
+- Switch to simple Spectrum Profile.
+- Gps improvements.
+- Thermal engine improvements.
+- Wifi improvements.
+- Some more miscellaneous improvements.
+
+
 # CORVUS V A10.0
 Device Changelog:
 - Updated fingerprint to Coral October fingerprint.
