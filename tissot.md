@@ -1,12 +1,15 @@
-Device Changelog:
+Android 10 Changelog:
 
-Corvus v11.0 | Spooky
+CHANGELOGS 2020-09-19
 
-- Initial Android 11 Build
-- Added Safailnet to pass CTS
-- Permissive Build
+- Build Kernel with Proton Clang
+- Kernel Upstream to v4.9.235
 
+Android 11 Changelog:
 
-Corvus v10.5 | Stable
+CHANGELOGS 2020-12-20
 
-- NO DEVICE CHANGES
+- Rebased Trees
+- Kernel Upstream to v4.9.247
+- Addressed some denials
+
