@@ -1,6 +1,7 @@
 ==>> ♦️ Changelogs from device side ♦️ <<==
 
-♦️ Corvus OS v10.5 Changelogs ♦️
+♦️ Corvus OS v10 Changelogs ♦️
+* Switched to Escrima-X29 kernel.
 * Implemented avoidGfxAccel flag for 2/3GB Variants.
 * Memory Optimizations.
 * Fixed poweroff alarm (experimental).
