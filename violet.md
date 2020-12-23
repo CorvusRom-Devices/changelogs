@@ -1,5 +1,11 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus VA10
+- Source Upstream
+- Kernel Upstream
+- Final A10 Build
+- Various under the hood changes
+
 ## Corvus V9.5
 
 - Source Upstream
