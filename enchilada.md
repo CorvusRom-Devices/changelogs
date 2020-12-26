@@ -1,5 +1,12 @@
 # OnePlus 6 Enchilada
 
+## Corvus v12.5
+
+- Remove no longer used Brightness Settings
+- Use Bonito Brightness Curve
+- DeviceSettings: Display toasts for slider
+- Gboard: Remove navbar spacing
+
 ## Corvus v12.0 
 
 - Initial Android 11 Release
