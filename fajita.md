@@ -1,6 +1,14 @@
 # OnePlus 6T Fajita
 
- ## Corvus v12.0 
+## Corvus v12.5
+
+- Set default Green FOD pressed color
+- Remove no longer used Brightness Settings
+- Use Bonito Brightness Curve
+- DeviceSettings: Display toasts for slider
+- Gboard: Remove navbar spacing
+
+## Corvus v12.0 
 
 - Initial Android 11 Release
 - Kernel Compiled with proton-clang (12.0.0 V)
