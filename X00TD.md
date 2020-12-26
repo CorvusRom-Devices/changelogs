@@ -1,16 +1,15 @@
 ## ZenFone Max Pro M1
 
-==================================================
-# Corvus OS v12.0 | Athrill | Android 11
+# Corvus OS v12.5 | XMAS | Android 11
 Device Changelog:
-- Initial Android 11 Vanilla build.
+- Initial Android 11 Vanilla and Gapps build.
 - Upstreamed 4.4.248-@X00T kernel inbuilt with spectrum.
 - Included Zenparts, Dolby And Dirac.
 - Allmost Everything working.
 Recommendation
-- Use Latest FlameGapps R for stablity.
+- Use Latest FlameGapps R in Vanilla Build for stablity.
+- Use Only those kernels which are upstreamed according to latest Basic changes required for A11.
 - If foun any bug, report with log.
-==================================================
 
 # Corvus Android 10 December
 Device Changelog:
