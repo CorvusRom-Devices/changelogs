@@ -16,64 +16,19 @@ Note:-
 *Camera
 Old Camera Blobs
 
+Android 11 Changelogs
+
 Device Side Changelogs:-
 
-*Updated Build FP From Redfin Dec Release
-
-*Fix DeepSleep Issue
-
-*Disable AUDIO_FEATURE_ENABLED_KPI_OPTIMIZE
-
-*Fix some power hal issues
-
-*Update Aptx blobs from Redfin
-
-*Update DPM Blobs
-
-*Address Few Denials
-
-*Set ZRam to 2GB
-
-*Enable Zygote Preforking
-
-*Enable dualmic fluence
-
-*Enable Adaptive Sleep
-
-*Drop persistent_reconnect
-
-*Update cpuset configs from Pixel4
-
-*Enable memory stats logging in user mode LMKD
-
-*Switch to 2.1 Health Hal
-
-*Address hell lot of denials
-
-*Disable Bluetooth WiPower
-
-*Fix Ldac Bluetooth Issues
-
-*Silence few spamming logs
-
-*Added Logtile Under QS
-
-*Disable NearbyMessagingService and DiscoveryService(Should Fix Wifi Speed While Using Bluetooth)
-
-XiaomiParts :-
-
-*Added Cpu Touch Boost(Experimental Feature)
-
-*Add Selinux Switch(Experimental Feature)
-
-And More.....
-
-*Extended Kernel EAS
-*Upstreamed Kernel
-*Added TouchBoost Driver Support
+* Enable config_avoidGfxAccel(Should improve ram management)
+* Switch to Rad Eas Kernel 
 
 Bugs
 *Wifi Display
 *Native Video Calling
 
+Android 10 Changelogs:-
 
+* Update Fp from Redfin December 
+* Add few missing volte & vowifi config for few carriers
+* And Nothing ....
