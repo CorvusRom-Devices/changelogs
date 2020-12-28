@@ -1,5 +1,9 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus V12.5-XMAS
+- Initial A11 Build
+- Smooth AF kernel prebuilt
+
 ## Corvus VA10
 - Source Upstream
 - Kernel Upstream
