@@ -1,3 +1,7 @@
+** vAndroid-10 OSS and Miui Vendor Changelogs **
+- Updated Build FP to Redfin December Security Patch
+- Added Screen Off FOD in Miui Vendor Builds
+
 ** v12.0-Athrill Miui Vendor Changelogs **
 - Update Fingerprint to Redfin December Security Patch
 - Inlined ANX v185
