@@ -9,7 +9,7 @@ Device Changelog:
 - Using Fingerprint Sufish
 - SElinux Permissive
 - CTS True without magisk
-- Nexus Kernel V4 4.4.249
+- Nexus Kernel V5     4.4.249
 - L1 Reverted to L3 Why attack by doing the decides to restart
 - Added Gboard In Build Vanilla
 - Added GcamGO
