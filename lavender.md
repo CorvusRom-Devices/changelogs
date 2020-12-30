@@ -9,7 +9,7 @@ Device Changelog:
 - Using Fingerprint Sufish
 - SElinux Permissive
 - CTS True without magisk
-- Nexus Kernel V4 | 4.4.248
+- Nexus Kernel V4 4.4.249
 - L1 Reverted to L3 Why attack by doing the decides to restart
 - Added Gboard In Build Vanilla
 - Added GcamGO
@@ -24,10 +24,8 @@ Device Changelog:
 Notes:
 - No relevant bugs found during the tests, if you are reporting something, provide me with logs!
 - Thanks @NotZeetaa for the Good Kernel!
-- Thanks @zPsiCo @educervantes @fabioj30 @Zayark for the tests!
+- Thanks @zPsiCo @educervantes @fabioj30 @Zayark @orezraey @CheapUnlimitedGoogleDrive @Kade1978 for the tests!
 - Don't use Nikgaaps, it's causing bugs!
-
-
 
 
 16-11-2020
