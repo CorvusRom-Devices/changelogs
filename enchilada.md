@@ -1,5 +1,16 @@
 # OnePlus 6 Enchilada
 
+## Corvus v13.0
+
+- Update to Redfin's Jan 2021 fingerprint
+- Kernel Upstreamed to 4.9.250
+- Ship AndroidAuto stub package
+- Set default sounds
+- DeviceSettings: Add LogTile
+- Add TetheringOverlay
+- Add OnePlus ScreenRecorder
+- Fix TouchGestures Force Close
+
 ## Corvus v12.5
 
 - Remove no longer used Brightness Settings
@@ -37,5 +48,4 @@
 - No Verizon Network Support
 
 ## Note:
-- Clean Flash
 - No Twrp Inbuilt
