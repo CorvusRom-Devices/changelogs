@@ -1,44 +1,32 @@
 # Redmi Note 7/7s Lavender 
 
-30-12-2020
+17-01-2021
 
-## Corvus V12.5-XMAS
-Device Changelog:
-- Build Initial Official by @CHRISL7
-- December security patch
-- Using Fingerprint Sufish
-- SElinux Permissive
-- CTS True without magisk
-- Nexus Kernel V5     4.4.249
-- L1 Reverted to L3 Why attack by doing the decides to restart
-- Added Gboard In Build Vanilla
-- Added GcamGO
-- Added GalleryGO
-- Added Retro Music
-- Added XiaomiParts V3
-- Added Dirac Sound and Presets
-- Added 24bits áudio
-- Added ZenTouch V12 
-- Many optimizations and additions, but I'm too lazy to write, sorry :')
-
-Notes:
-- No relevant bugs found during the tests, if you are reporting something, provide me with logs!
-- Thanks @NotZeetaa for the Good Kernel!
-- Thanks @zPsiCo @educervantes @fabioj30 @Zayark @orezraey @CheapUnlimitedGoogleDrive @Kade1978 for the tests!
-- Don't use Nikgaaps, it's causing bugs!
-
-
-16-11-2020
-
+## Corvus V13.0-Exalted
 Device Changelog:
 
-• First Android 11 Official Release
+* January Security Patch
+* Update Fingerprint from redfin RQ1A.210105.003
+* RavenLair e Themes translated to PT-BR (thanks @Jean_Farinha for translations)
+* CTS True without magisk
+* Nexus Kernel V6
+* Compile kernel with clang 11.0.5
+* Fixed DT2W
+* Disable WiFi display for now
+* Add Rounded Corners for Gboard
+* Added Lavender VolumeBooster v3
+* Update XiaomiParts for V4
+* xiaomiparts translated to PT-BR
+* XiaomiParts: Implement Clear Speaker
+* XiaomiParts: FPS Info: redesign FPS Info
+* Dirac Sound and XiaomiDoze moved to XiaomiParts
+* Dirac: Add Bassboster Preset
+* Enable vr high performance options
+* Add vr hal with vr.high_performance to sdm660
+* Update Media stuff
+* Set opengl renderer
+* Drop ZenTouch v12
+* Many other fixes and improvements
 
-• Kernel Bagual-Veio-1.6-Full-OC | 4.4.243
-
-• CTS Profile Pass with magisk hide
-
-• SElinux Permissive
-
-• Stable Build
-
+Credits: 
+@Jean_Farinha @zPsico @fabioj30 @Anderson_CV @educervantes @yMatheus for tests!
