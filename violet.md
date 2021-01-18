@@ -1,5 +1,10 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus V13.0 - Exalted
+- Source Upstream
+- Updated Build Fingerprint to Redfin Jan 2021
+- Fixed CTS
+
 ## Corvus V12.5-XMAS
 - Initial A11 Build
 - Smooth AF kernel prebuilt
