@@ -12,8 +12,7 @@ Device Changelog:
 - Removed Dolby, it will be added back soon.
 - Increased volume of system sounds, if want more then enable dirac.
 - Fixed low audio issue for Bluetooth headphones.
-- Fixed earphone call issue and all other audio problems.
----------- Recommendation ----------
+#### Recommendation
 - Use Latest FlameGapps R in Vanilla Build for stablity.
 - Use firmware 063 or 438 for best audio quality.
 
