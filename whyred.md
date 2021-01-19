@@ -20,8 +20,11 @@ Android 11 Changelogs
 
 Device Side Changelogs:-
 
-* Enable config_avoidGfxAccel(Should improve ram management)
-* Switch to Rad Eas Kernel 
+* Update Build Fp from Redfin Jan Release
+* Move Ant,Fm etc blobs to system_ext
+* Address hell lot of denials(Enforcing almost ready)
+* Maybe More...
+* Rad Eas Kernel 
 
 Bugs
 *Wifi Display
