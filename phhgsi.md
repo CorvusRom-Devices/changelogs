@@ -10,16 +10,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td><input type="checkbox" onclick="return false;" checked/></td>
+		<td>:heavy_check_mark:</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td><input type="checkbox" onclick="return false;" checked/></td>
+                    <td>:heavy_check_mark:</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td><input type="checkbox" onclick="return false;" checked/></td>
+                    <td>:heavy_check_mark:</td>
                 </tr>
         	</table>
         </td>
@@ -37,16 +37,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td><input type="checkbox" onclick="return false;" /></td>
+		<td>:x:</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td><input type="checkbox" onclick="return false;"/></td>
+                    <td>:x:</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td><input type="checkbox" onclick="return false;" checked/></td>
+                    <td>:heavy_check_mark:</td>
                 </tr>
         	</table>
         </td>
@@ -66,16 +66,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td><input type="checkbox" onclick="return false;" /></td>
+		<td>:x:</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td><input type="checkbox" onclick="return false;"/></td>
+                    <td>:x:</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td><input type="checkbox" onclick="return false;" checked/></td>
+                    <td>:heavy_check_mark:</td>
                 </tr>
         	</table>
         </td>
@@ -92,16 +92,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td><input type="checkbox" onclick="return false;" checked/></td>
+		<td>:heavy_check_mark:</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td><input type="checkbox" onclick="return false;" checked/></td>
+                    <td>:heavy_check_mark:</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td><input type="checkbox" onclick="return false;" checked/></td>
+                    <td>:heavy_check_mark:</td>
                 </tr>
         	</table>
         </td>
@@ -122,16 +122,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td><input type="checkbox" onclick="return false;" /></td>
+		<td>:x:</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td><input type="checkbox" onclick="return false;"/></td>
+                    <td>:x:</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td><input type="checkbox" onclick="return false;" checked/></td>
+                    <td>:heavy_check_mark:</td>
                 </tr>
         	</table>
         </td>
@@ -150,16 +150,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td><input type="checkbox" onclick="return false;" /></td>
+		<td>:x:</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td><input type="checkbox" onclick="return false;"/></td>
+                    <td>:x:</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td><input type="checkbox" onclick="return false;" checked/></td>
+                    <td>:heavy_check_mark:</td>
                 </tr>
         	</table>
         </td>
