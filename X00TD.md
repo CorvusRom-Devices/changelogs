@@ -6,13 +6,14 @@ Device Changelog:
 - Updated APN configs.
 - Hotspot working fine with WPS/WPA2.
 - CTS passing by default and Device is certified.
-- Kernel Upstreamed to linux version v4.4.251.
+- Kernel Upstreamed to linux version v4.4.252.
 - Merged CAF tag 'LA.UM.7.2.r1-09600-sdm660.0' into wifi drivers.
 - Updated Vendor blobs from WW-17.2017.2012.438.
 - Removed Dolby, it will be added back soon.
 - Increased volume of system sounds, if want more then enable dirac.
 - Fixed low audio issue for Bluetooth headphones.
-#### Recommendation
+- Fixed double tap to wake.
+### Recommendation
 - Use Latest FlameGapps R in Vanilla Build for stablity.
 - Use firmware 063 or 438 for best audio quality.
 
