@@ -48,8 +48,8 @@
 
 <!--
 	Emojis
-		:heavy_check_mark: - Tick
-		:x: - Cross
+		✓ - Tick
+		✕ - Cross
 -->
 
 ## CorvusOS v13.0 Exalted
@@ -62,16 +62,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td>:heavy_check_mark:</td>
+		<td>✓</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td>:heavy_check_mark:</td>
+                    <td>✓</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td>:heavy_check_mark:</td>
+                    <td>✓</td>
                 </tr>
         	</table>
         </td>
@@ -89,16 +89,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td>:x:</td>
+		<td>✕</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td>:x:</td>
+                    <td>✕</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td>:heavy_check_mark:</td>
+                    <td>✓</td>
                 </tr>
         	</table>
         </td>
@@ -118,16 +118,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td>:x:</td>
+		<td>✕</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td>:x:</td>
+                    <td>✕</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td>:heavy_check_mark:</td>
+                    <td>✓</td>
                 </tr>
         	</table>
         </td>
@@ -144,16 +144,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td>:heavy_check_mark:</td>
+		<td>✓</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td>:heavy_check_mark:</td>
+                    <td>✓</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td>:heavy_check_mark:</td>
+                    <td>✓</td>
                 </tr>
         	</table>
         </td>
@@ -174,16 +174,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td>:x:</td>
+		<td>✕</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td>:x:</td>
+                    <td>✕</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td>:heavy_check_mark:</td>
+                    <td>✓</td>
                 </tr>
         	</table>
         </td>
@@ -202,16 +202,16 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td>:x:</td>
+		<td>✕</td>
 		<td>
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td>:x:</td>
+                    <td>✕</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td>:heavy_check_mark:</td>
+                    <td>✓</td>
                 </tr>
         	</table>
         </td>
