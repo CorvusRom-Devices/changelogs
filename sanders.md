@@ -1,9 +1,10 @@
-* Added Lottie animations in Moto Actions
+* Fixed Offline charging 
 
-* Interactive gov as default
+* Fixed Default Sim reset on Reboot 
 
-* Switch to old kernel
 
-* Config for media swcodec
 
-* Misc Improvements
+
+
+
+* Misc Improvements and Changes 
