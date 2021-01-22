@@ -32,6 +32,7 @@ Bugs
 
 Android 10 Changelogs:-
 
-* Update Fp from Redfin December 
-* Add few missing volte & vowifi config for few carriers
-* And Nothing ....
+* Update Fp from Redfin January Release 
+* Introduce Touch Booster under Xiaomi Parts
+* Add bass support under dirac
+* Extended Eas Kernel Upstreamed
