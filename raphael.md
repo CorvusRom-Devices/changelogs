@@ -1,3 +1,16 @@
+** v13.0-Exalted Miui Vendor Changelogs **
+- Enforcing now
+- Fixed keyguard bottom margin
+- Disabled FOD icon dimming
+- Enabled Proximity check on wake
+- Fixed spacing between keyboard and navbar
+- Bumped minimum vendor variant for IN
+- Added telephony-ext to boot jars
+- init: set device model for different variants
+- Switched to standalone extract utils
+- Updateed redfin fingerprint to Jan 2021
+- Used CodeAurora ImsService implementation for RCS
+
 ** vAndroid-10 OSS and Miui Vendor Changelogs **
 - Updated Build FP to Redfin December Security Patch
 - Added Screen Off FOD in Miui Vendor Builds
