@@ -1,9 +1,7 @@
 Device Changelog:
 
-Corvus V8.0
+Corvus V13.0 - R
 
-- Removed Lineage Recorder
-- Added OnePlus Screen Recorder
-- Kernel Upstream to v4.4.232
-- Fixed Smart Charging
-- Added Maintainer Name
+- Initial Build
+- Kernel to EAS
+- SELinux Permissive
