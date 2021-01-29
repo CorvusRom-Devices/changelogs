@@ -1,5 +1,16 @@
 ## ZenFone Max Pro M1
 
+# Corvus Android 10 January Update
+Device Changelog:
+- Updated fingerprint to Coral January fingerprint.
+- Safteynet passing by default and Device is certified.
+- Upstreamed kernel to linux version v4.4.252.
+- Updated audio and media configs from stock 438.
+- Updated ims and ril blobs from stock 438.
+- Updated framework blobs from stock 438.
+- Fixed lag and reduced frame drops.
+- Performance Improvements and more miscellaneous changes.
+
 # Corvus OS v13.0 | Exalted | Android 11
 Device Changelog:
 - Enforcing build.
