@@ -1,5 +1,16 @@
 ## REDMI NOTE 8 PRO
 
+# CORVUS v14.0 
+- Vendor Blobs Sync With MiUi 12
+- NON-CFW Build
+- You Must Need To Follow This Guide (https://telegra.ph/Pixel-Begonia-02-02).
+- redifiend Fingerprint to February
+
+# CORVUS v13.0 (Updated: 25/01/'21)
+- Initial VNDK30 build
+Notes: 
+- Requires CFW 4.0 (https://t.me/dreamsupportbegonia/151797?single) migration for this build. 
+
 # CORVUS V12.0
 - Upstreamed Kernel To v4.14.212+
 - Prebuild ANx Cam
