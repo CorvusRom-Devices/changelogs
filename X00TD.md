@@ -1,5 +1,23 @@
 ## ZenFone Max Pro M1
 
+# Corvus OS v14.0 | Ruinous | Android 11 | STABLE
+Device Changelog:
+- Updated wireguard to latest kernel version 1.0.20210124.
+- Kernel Upstreamed to linux version v4.4.255.
+- CTS passing by default and Device is certified.
+- Updated ims,ir and sound blobs from WW-17.2017.2012.438.
+- Updated dpm and cacert blobs from ASUS_I01WD
+- Enabled westwood,htcp,reno tcp algos in kernel.
+- Fixed screen lag when blur was enabled.
+- Fixed Screen Freez when dt2w was disabled.
+- Fixed sound input/output issues on google meet,
+  Microsoft Teams and zoom like apps.
+- Dolby added back and working fine.
+- Enabled Dirac by default.
+### Recommendation
+- Recommended firmwares 060,063,087.
+- Use Latest FlameGapps R in Vanilla Build for stablity.
+
 # Corvus Android 10 January Update
 Device Changelog:
 - Updated fingerprint to Coral January fingerprint.
