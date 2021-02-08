@@ -1,3 +1,7 @@
+** v14.0-Ruinous Miui Vendor Changelogs **
+- Updated redfin build fingerprint to Feb 2021
+- Removed ANX Prebuilt cam
+
 ** v13.0-Exalted Miui Vendor Changelogs **
 - Enforcing now
 - Fixed keyguard bottom margin
