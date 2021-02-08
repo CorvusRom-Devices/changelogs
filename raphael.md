@@ -1,6 +1,7 @@
 ** v14.0-Ruinous Miui Vendor Changelogs **
 - Updated redfin build fingerprint to Feb 2021
 - Removed ANX Prebuilt cam
+Note:- Smart charging and Live Display is turned off untill its working properly
 
 ** v13.0-Exalted Miui Vendor Changelogs **
 - Enforcing now
