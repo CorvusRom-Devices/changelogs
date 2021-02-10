@@ -1,7 +1,8 @@
 Device Changelog:
 
-Corvus V13.0 - R
+Corvus V14.0 - R
 
-- Initial Build
-- Kernel to EAS
-- SELinux Permissive
+- Update WFD and Time services blobs
+- Use Kernel to EAS - Halcyon
+- SELinux Enforcing
+- Overlay: Enable smart charging
