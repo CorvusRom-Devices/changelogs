@@ -1,12 +1,13 @@
- Xiaomi Poco X2 (Corvus v13)
+ Xiaomi Poco X2 (Corvus v14)
 
 #####Device changelogs:#####
 
-- Update Fingerprint to Sunfish JAN
-- Introduce SafailNet
-- Patched SafetyNet in Kernel level
-- Enable Zygote preforking for faster app opening
-- Implemented Miui camera for Aux cams
-- Support higher resolution youtube videos
+- Update Fingerprint to Redfin Redfin
+- Selinux Enforcing
+- CPU boost in kernel
+- Fixed portrait mode and 64MP camera
+- Safetynet passes by default
+- Enabled AOD overlay
+- Enabled Smart charging
 - Added SDFat Support for SDcards
 - Fixed video recording timestamp issues
