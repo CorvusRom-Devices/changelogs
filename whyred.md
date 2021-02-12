@@ -8,9 +8,11 @@ Note:-
 
 *Use Xiaomi Offical Firmware(I use china beta 20.3.26 personally)
 
-*Use Magisk 21.0
+*Use Magisk 21.4
 
 *Cts Passes by default out of the box..After Flashing Magisk Need To Hide Magisk Manager
+
+*If any app/basic feature which was working before it isnt working now then flash permissiver v5 and re-check 
 
 
 *Camera
@@ -20,11 +22,38 @@ Android 11 Changelogs
 
 Device Side Changelogs:-
 
-* Update Build Fp from Redfin Jan Release
-* Move Ant,Fm etc blobs to system_ext
-* Address hell lot of denials(Enforcing almost ready)
-* Maybe More...
-* Rad Eas Kernel 
+Update Fingerprint from Redfin Feb Release
+Switched to Enforcing(Finally)
+Fix issues with ok google detection
+Update Carrier Config from LA.UM.9.1.r1-07500-SMxxx0.0
+Configure SQLite to operate in MEMORY mode
+Address Few More Denials
+Xiaomi Parts:- Move it to system(find it under Settings->System)
+Xiaomi Parts:- Fix BackDimmer Switch not turning off
+Xiaomi Parts:- Fix Crash on locked Boot Reciever
+
+
+Vendor Side Changelogs:-
+
+Bring back Miui Offline Charging Animation
+Update perf stack from wahoo
+Update perfd from taimen R release
+Remove few unused gpu certificates
+
+Bugs:-
+
+Wifi Display(Cast)
+Native Video Calling(Vilte)
+
+
+Kernel Side ChangeLogs:-
+
+Extended Eas Kernel
+Upstreamed to Latest Sources
+
+And More.....
+
+*Extended Kernel EAS(No need of flashing easperf module
 
 Bugs
 *Wifi Display
