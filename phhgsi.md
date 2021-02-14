@@ -78,11 +78,11 @@
 	</tr>
 </table>
 
-source: Bump to CorvusOS v14.0 Ruinous
-device/phh/treble: Rework whole device tree
-vendor/corvus-gsi: Rework patches, inline with other patchsets
-vendor/generify: Use latest dev branch changes
-device/generic/common: Use GSI NFC conf
+- source: Bump to CorvusOS v14.0 Ruinous
+- device/phh/treble: Rework whole device tree
+- vendor/corvus-gsi: Rework patches, inline with other patchsets
+- vendor/generify: Use latest dev branch changes
+- device/generic/common: Use GSI NFC conf
 
 ## CorvusOS v13.0 Exalted
 ### 2021-01-17 (Alpha)
