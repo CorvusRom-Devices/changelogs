@@ -52,6 +52,38 @@
 		✕ - Cross
 -->
 
+## CorvusOS v14.0 Ruinous
+### 2021-02-14 (Alpha)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>✕</td>
+		<td>
+        	<table>
+                <tr>
+                	<th>VNDK Lite</th>
+                    <td>✕</td>
+                </tr>
+                <tr>
+                	<th>VNDK Non-Lite</th>
+                    <td>✓</td>
+                </tr>
+        	</table>
+        </td>
+	</tr>
+</table>
+
+source: Bump to CorvusOS v14.0 Ruinous
+device/phh/treble: Rework whole device tree
+vendor/corvus-gsi: Rework patches, inline with other patchsets
+vendor/generify: Use latest dev branch changes
+device/generic/common: Use GSI NFC conf
+
 ## CorvusOS v13.0 Exalted
 ### 2021-01-17 (Alpha)
 <table>
