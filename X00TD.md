@@ -13,6 +13,8 @@ Device Changelog:
 - Fixed WFD service.
 - Fixed Bluetooth for all inputs/outputs.
 - Fixed microphone problem for all Inputs.
+- Fix nightlight crash in sunset to sunrise mode.
+- Add QTI bluetooth and enabled a2dp offload.
 - Add HotWord Enrollment from coral.
 - Add aptX blobs from coral.
 - Add miracast service from stock 438.
