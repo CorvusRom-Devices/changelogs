@@ -1,5 +1,26 @@
 ## ZenFone Max Pro M1
 
+# Corvus OS | Android 10 | Feburary Update
+Device Changelog:
+- Updated fingerprint to Redfin Feburary fingerprint.
+- Safteynet passing by default and Device is certified.
+- Upstreamed kernel to linux version v4.4.255.
+- Updated to audio hidl hal version 5.0.
+- Updated audio blobs from stock 438.
+- Update MotoDolby3 and daxService.
+- Updated media configuration files.
+- Fixed OK google.
+- Fixed WFD service.
+- Fixed Bluetooth for all inputs/outputs.
+- Fixed microphone problem for all Inputs.
+- Add HotWord Enrollment from coral.
+- Add aptX blobs from coral.
+- Add miracast service from stock 438.
+- Add IceSound enhancer from stock 438.
+- More miscellaneous Improvements.
+### Recommendation
+- Recommended firmwares 060,063,087.
+
 # Corvus OS v14.0 | Ruinous | Android 11 | STABLE
 Device Changelog:
 - Updated wireguard to latest kernel version 1.0.20210124.
