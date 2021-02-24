@@ -1,3 +1,7 @@
+** v14.5-Mutate Miui Vendor Changelogs **
+- Fixed FOD Flickers
+- Moar FOD Improvements
+
 ** v14.0-Ruinous Miui Vendor Changelogs **
 - Updated redfin build fingerprint to Feb 2021
 - Removed ANX Prebuilt cam
