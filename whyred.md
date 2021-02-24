@@ -53,7 +53,7 @@ Upstreamed to Latest Sources
 
 And More.....
 
-*Extended Kernel EAS(No need of flashing easperf module
+*Extended Kernel EAS(No need of flashing easperf module)
 
 Bugs
 *Wifi Display
@@ -61,7 +61,8 @@ Bugs
 
 Android 10 Changelogs:-
 
-* Update Fp from Redfin January Release 
-* Introduce Touch Booster under Xiaomi Parts
-* Add bass support under dirac
-* Extended Eas Kernel Upstreamed
+* Update Fp from Redfin Feb Release
+* Update Adaptive Brightness Curve from Lavender 10 Release 
+* Fix Broken Usb Fast Charge Toggle under Xiaomi Parts
+* Introduce Fast Charging Toggle under Xiaomi Parts
+* Extended Eas Kernel Upstreamed(No need of flashing easperf module)
