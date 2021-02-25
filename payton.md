@@ -8,9 +8,6 @@ Device Changelog:
 - Fix Night light
 - Selinux Permissive
 
-
-Device Changelog:
-
 - Corvus V14.5 - R
 
 
