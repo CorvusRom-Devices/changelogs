@@ -1,5 +1,15 @@
 # OnePlus 6T Fajita
 
+## Corvus v14.5
+
+- Kernel Upstreamed from 4.9.250 to 4.9.258
+- overlay: Enable support for Bluetooth hearing aids
+- overlay: Update CarrierConfig overlay from OOS11
+- overlay: Disable global mode and CDMA choices
+- overlay: Disable LiveDisplay for now
+- Use CodeAurora ImsService implementation for RCS
+- Removepackages: Remove Some Prebuilt Apps (Gmail, arcore, Photos, RecorderPrebuilt & Maps)
+
 ## Corvus v14.0
 
 - Update to Redfin's Feb 2021 fingerprint
