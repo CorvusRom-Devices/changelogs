@@ -10,6 +10,7 @@ Device Changelog:
 - Update perf and thermal blobs from jasmine.
 - Fixed wifi calling.
 - Fixed GPS location stuck at one place.
+- Fixed wfd, need testing.
 - Improved bluetooth audio.
 - More improvement and stability from previous version.
 ### NOTES
