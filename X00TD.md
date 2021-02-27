@@ -1,5 +1,21 @@
 ## ZenFone Max Pro M1
 
+# Corvus OS v14.5 | Mutate | Android 11 | STABLE
+Device Changelog:
+- Kernel Upstreamed to linux version v4.4.258.
+- CTS passing by default and Device is certified.
+- Updated ims and radio blobs from WW-17.2017.2012.438.
+- Update GPS blobs from ASUS_ASUS_I01WD.
+- Update Dolby blobs from sofiar.
+- Update perf and thermal blobs from jasmine.
+- Fixed wifi calling.
+- Fixed GPS location stuck at one place.
+- Improved bluetooth audio.
+- More improvement and stability from previous version.
+### NOTES
+- Dolby works for bluetooth if bt device supports.
+- Recommended firmwares 060,063,087.
+
 # Corvus OS | Android 10 | Feburary Update
 Device Changelog:
 - Updated fingerprint to Redfin Feburary fingerprint.
