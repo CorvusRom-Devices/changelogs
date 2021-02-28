@@ -1,19 +1,17 @@
 # XIAOMI REDMI NOTE 8/8T CHANGELOG
 
-## v12.0 (15.12.2020)
-- Offline charging bug fixed .
-- Switched to AOSP clang for kernel build .
-- Disabled deprecated configstore .
-- Switched to Quicksilver Kernel upstreamed to v4.14.211 and LA.UM.9.11.r1-02400-NICOBAR.0 .
-- Updated blobs from MIUI 12.0.2 .
-- Added December security patch From Redfin .
-- Added back XiaomiParts With KCAL support .
-- Gcam Hdr Bug fixed .
-- Double Tap To Wake fixed .
-- Fixed Wifi Display ( screen casting ) .
-- Fixed Whatsapp Web QR code scanning issue .
-- Fixed gapps Random reboots .
-- Fixed wired headset buttons .
-- Fixed random reboots in extended 4G sessions .
-- Updated xiaomi parts translations .
-- More improvements and fixes .
+## v14.0 (28.02.2021)
+- Included MiuiCamera.
+- Updated blobs from MIUI V12.0.1.0.RCOCNXM.
+- Updated graphics/sensors/DSP to LA.UM.9.11.r1-02800.
+- Updated various configs from stock.
+- Switched to qcom power hal + perf hal boosting.
+- Display dying under heat should be fixed.
+- Increase gps batch size for faster fix.
+- Switched to pixel offline charger animation.
+- Further smoothen notch cutout.
+- Merged LA.UM.9.1.r1-08600-SMxxx0.0 and v4.14.221 in kernel.
+- Added wireguard support.
+- Made notch cutout wider.
+- Reduced touchscreen, GPU and CPU latency.
+- Misc optimizations and fixes.
