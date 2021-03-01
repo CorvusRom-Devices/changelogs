@@ -1,5 +1,15 @@
 ## Redmi Note 6 Pro
 
+# CORVUS V14.5
+Device Changelog:
+- removed some standard applications
+- Reduce screenshot delay to 0
+- Set black theme as default dark theme 
+- Set Solid Explorer default file manager
+
+cts true with magisk hide only
+
+
 # CORVUS V14.0
 Device Changelog:
 
