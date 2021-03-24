@@ -10,6 +10,7 @@ Device Changelog:
 - Fixed screen freeze on first boot.
 - Fixed audio crack for some apps.
 - Fixed dual volte service for both sim cards.
+- Fixed hotword enrollment for 'OK Google'.
 - Improved audio quality and loudness.
 - Improved deep sleep in inbuilt kernel.
 - Removed inbuilt Moto Dolby.
