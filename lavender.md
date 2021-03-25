@@ -1,63 +1,103 @@
 # Redmi Note 7/7s Lavender 
+# Version 15.0 kernel 4.19 (26-03-2021)
+# General:
+* Add Gboard in Vanilla build
+* Adding XiaomiParts, XiaomiDoze and Dirac into the whitelist
+* Add support for 240FPS 1/8 slow-motion
+* Define ro.media.recorder-max-base-layer-fps
+* Disable WLAN Firmware loggings
+* Enable iorapd
+* Introduce 'SafailNet'
+* Improve ram management
+* Switch to AIDL Power HAL Pixels
+* Switch to AOSP surfaceflinger
+* Use clang 12.0.3
+* Update qti-telephony-common from nubia 
+* Update GPS from LA.UM.9.1.r1-06700-SMxxx0.0
+* Update rootdir from LA.UM.9.2.1.r1-06000-sdm660.0
+* Update media codecs from LA.UM.9.2.1.r1-06000-sdm660.0 
+* Update wifi configs from LA.UM.9.2.1.r1-06000-sdm660.0 
+* Update fingerprint to Redfin - RQ2A.210305.006 (cts passed without magisk)
+* Update Mystic Kernel to R2.6 4.19.182
+* Permissive build
 
-# Version 14.5 (22-02-2001)
+# Fix
+* Fix Hostpot
 
-# Changes
-  - Update fingerprint to Redfin - RQ1A.210205.004 (cts passed without magisk)
-  - Set google AutofillService default
-  - Use Predator 9.5 HMP
-  - import Hotword Enrollment blobs
-  - Removed all apps prebuilt
-  - Drop non-functional soundtrigger
-  - Fix: DT2W
+# Bug
+* WFD
 
-# Dirac
-   - Dirac/Mi Sound separate to CorvuSettings (moved for Settings)
-   - Add bass booster preset for MiSound (much stronger bass for those who use headphones)
-   - Add Blobs Dirac (adde some libs on vendor)
-   - Fix: Dirac: Enable by default (dirac didn't work well at times)
-   - Import MIUI dirac translations
-
-# CorvuSettings
-   - Initial Build: Introduce CorvuSettings
-   - Freatures: 
-   - White Torch Brightness
-   - Vibration Feedback
-   - Kcal And the best FPS Info
-   - Spectrum
-   - CorvuDoze
-   - Game Turbo Boost Performance
-   - Smart Charging
-   - MSM Thermal
-   - CPU Cpre Control
-   - VDD Restriction
-   - Low Memory Killer
-   - Clear Speaker
-   - Headphone, Microfone, Earpiece e Speaker gain
-   - USB Fast charger
+# XiaomiParts:
+* Updates XiaomiParts to version 5.0
+* Drop Game turbo and Spectrum ( All those settings don't work well in SDM660, and it was causing poor performance).
+* The main menu has been organized so that the order of the settings is cooler.
+* Add XiaomiDoze and Tile launcher
+* Add dynamic thermal profile implementation
+* Updated some icons
+* Increase BootReceiver priority (Settings will be restored faster at startup).
+* Smart Charging: Nodes reverted to charging_enabled (input_suspend It wasn't working well)
 
 # Credits:
-   - Thanks @hazama25 for dt base!
-   - Thanks @@PredatorX91 for kernel!
+* Thanks @Golpiista, for tests!
+* Thanks @okta10 for kernel!
 
+# Notes for 4.19:
+* FDE build
+* USE Ofox latest
+* installation standard equal 4.4
+* format data is necessary, of course
 
+# Version 15.0 kernel 4.4 (26-03-2021)
+# General:
+* Adding XiaomiParts, XiaomiDoze and Dirac into the whitelist
+* Add support for 240FPS 1/8 slow-motion
+* Define ro.media.recorder-max-base-layer-fps
+* Disable WLAN Firmware loggings
+* Drop non-functional soundtrigger
+* Enforcing build
+* Enable iorapd
+* Enable Seamless Transfer
+* Loosen up charging thermal throttling thresholds
+* Set permission for spidev7.1 IR node
+* Switch to EAS
+* Switch to AIDL Power HAL Pixels
+* Switch to AOSP surfaceflinger
+* Pixelize settings more
+* Update Nexus Kernel to V3 4.4.262
+* Update fingerprint to Redfin - RQ2A.210305.006 (cts passed without magisk)
+* Use msm8998 hals R
+* Netflix the back L3
 
-07-02-2021
+# Fix
+* Fix WFD Cast
+* Fix double tap always wake
 
-## Corvus V14.0
-Device Changelog:
+# Apps: 
+* Add Gboard in Vanilla build
 
-* Fix typo in console kernel parameter
-* Change USB autosuspend delay to 7s by commandline
-* Update Fingerprint from redfin RQ1A.210105.004
-* CTS True without magisk
-* Netflix working in L1
-* Nexus Kernel V8
-* Update XiaomiParts for V4.5
-* XiaomiParts: Move for System
-* Import TucumãSettings
-* Introduce Safailnet
+# Blobs: 
+* import Hotword Enrollment blobs
+* Add qrtr blobs
+* Update blobs from LA.UM.8.2.r1-07400-sdm660.0
+* Update perfd-client blobs from LA.UM.9.6.2.r1-03300-89xx.0
+* Update WFD blobs from LA.UM.9.6.2.r1-03300-89xx.0
+* Update libsdmcolor.so from LA.UM.8.2.r1-07500-sdm660.0
+* Update permissions Vulkan 1.1.128 (5.5)
+* Update mi sound from ginkgo MIUI V12.0.1.0.RCOCNXM
+* Update thermal/widevine blobs from jasmine V11.0.19.0.QDIMIXM
+* Downgrade LA.UM.9.6.2.r1 revision to 03300-89xx.0 to fix WFD "Cast"
+* Downgrade GPS blobs and hals to LA.UM.9.6.2.r1-03300-89xx.0 to fix GPS navigation
 
-Credits: 
-@zPsico @fabioj30 @Anderson_CV @educervantes for tests!
-@hazama25 for base tree!
+# XiaomiParts: 
+* Updates XiaomiParts to version 5.0
+* Drop Game turbo and Spectrum ( All those settings don't work well in SDM660, and it was causing poor performance).
+* The main menu has been organized so that the order of the settings is cooler.
+* Add XiaomiDoze and Tile launcher
+* Add dynamic thermal profile implementation
+* Updated some icons
+* Increase BootReceiver priority (Settings will be restored faster at startup).
+* Smart Charging: Nodes reverted to charging_enabled (input_suspend It wasn't working well)
+
+# Credits:
+* Thanks @Golpiista, @ueeel for tests!
+* Thanks @NotZeetaa for kernel!
