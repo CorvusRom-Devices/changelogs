@@ -1,3 +1,19 @@
+## _Corvus v15.0 RavenClaw Changelogs for Miatoll_
+
+- Removed removed IAuthSecret, was spamming crashes in logs.
+- Bumpup vendor.display.config to 2.0.
+- Still Android Q Blobs So ANX Back Video & front Portrait Crashes.
+- Enabled Multi Users.
+- Switch Skia rendering backend to Vulkan.
+- Windup WFD according to logs and should work fine, But not tested cause no WFD devices Nearby me.
+- Also Read Notes.
+
+--Notes--
+- Dirty Flash Is Fine.
+- Suggestion- For Gaming, Vanilla Build with Custom Kernel without any gapps will give more Performance.
+- Bugs Reporting with logs are welcomed.
+- If safetyNet fails then use Magisk Module / It wont fail as Rom have CTS props.
+- It is Compulsory to do this after installing all Apps, Also Read/Understand/Do-it this https://del.dog/optimizedex.go
 
 ## _Corvus v14.0 Ruinous Changelogs for Miatoll_
 
