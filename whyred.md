@@ -22,23 +22,14 @@ Android 11 Changelogs
 
 Device Side Changelogs:-
 
-Update Fingerprint from Redfin Feb Release
-Switched to Enforcing(Finally)
-Fix issues with ok google detection
-Update Carrier Config from LA.UM.9.1.r1-07500-SMxxx0.0
-Configure SQLite to operate in MEMORY mode
-Address Few More Denials
-Xiaomi Parts:- Move it to system(find it under Settings->System)
-Xiaomi Parts:- Fix BackDimmer Switch not turning off
-Xiaomi Parts:- Fix Crash on locked Boot Reciever
-
-
-Vendor Side Changelogs:-
-
-Bring back Miui Offline Charging Animation
-Update perf stack from wahoo
-Update perfd from taimen R release
-Remove few unused gpu certificates
+Update Build FIngerprint from Redfin March Release.
+Update GPU Blobs to V454
+Address Few Denials
+BringBack Live Blur Toggle(Find under Display Settings)
+Xiaomi Parts :-
+Rework on Usb Fast Charge Toggle
+Introduce Fast Charge Toggle
+Maybe More....
 
 Bugs:-
 
@@ -48,12 +39,12 @@ Native Video Calling(Vilte)
 
 Kernel Side ChangeLogs:-
 
-Extended Eas Kernel
+Deagle v14 Eas Kernel
 Upstreamed to Latest Sources
 
 And More.....
 
-*Extended Kernel EAS(No need of flashing easperf module)
+*Deagle Kernel EAS(No need of flashing easperf module)
 
 Bugs
 *Wifi Display
