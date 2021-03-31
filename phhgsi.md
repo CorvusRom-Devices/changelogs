@@ -52,6 +52,39 @@
 		✕ - Cross
 -->
 
+## CorvusOS v15.0 RavenClaw
+### 2021-03-29 (Alpha)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>✓</td>
+		<td>
+        	<table>
+                <tr>
+                	<th>VNDK Lite</th>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                	<th>VNDK Non-Lite</th>
+                    <td>✓</td>
+                </tr>
+        	</table>
+        </td>
+	</tr>
+</table>
+
+- source: Bump to CorvusOS v15.0 RavenClaw
+- device/phh/treble: Merged phh device tree
+- vendor/corvus-gsi: Update to phh r32 patches
+- vendor/corvus-gsi: Slight rework of patches, inline with other patchsets
+- vendor/generify: Use latest dev branch changes
+
+
 ## CorvusOS v14.0 Ruinous
 ### 2021-02-14 (Alpha)
 <table>
