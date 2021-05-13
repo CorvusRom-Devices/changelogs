@@ -9,3 +9,17 @@
 • Upstreamed kernel to 4.14.221. 
 • Switched to stock Perf+ kernel.
 • Many other Misc Fixes and Performance improvements.
+
+
+
+**Corvus-OS v16.0-Alpha Centauri Device Changelog:** 
+
+• Introduced POCO Parts. 
+• Imported Audio configs from MIUI. 
+• Import Dirac From XiaomiParts v5.0 (Now when the Dirac is turned on the sound volume on the speaker has an improvement too) 
+• parts: Dirac: Add dirac blobs 
+• parts: Dirac: Add bass booster preset.
+• Add Support Alipay and WeChat fingerprint payment.
+• surya: Introduce IORap.
+• OP Screen Recorder Prebuilt.
+• surya: overlay: Default to full gesture navigation
