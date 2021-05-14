@@ -4,6 +4,7 @@
 - Switch to any kernels will work Fine.
 - Switch to new R blobs.
 - Selinux=Enforcing.
+- Encrypted Build
 - Fully Working ANX Module Support (flash through magisk).
 - Also Read Notes.
 
