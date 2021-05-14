@@ -1,3 +1,19 @@
+## _Corvus-OS v16.0 Alpha Centauri Changelogs for Miatoll_
+
+- Now no bugs which was in v15.0 build.
+- Switch to any kernels will work Fine.
+- Switch to new R blobs.
+- Selinux=Enforcing.
+- Fully Working ANX Module Support (flash through magisk).
+- Also Read Notes.
+
+--Notes--
+- Clean Flash Compulsory.
+- Suggestion- For Gaming, Vanilla Build with Custom Kernel without any gapps will give more Performance.
+- Bugs Reporting with logs are welcomed.
+- If safetyNet fails then use Magisk Module / It wont fail as Rom have CTS props.
+- It is Compulsory to do this after installing all Apps, Also Read/Understand/Do-it this https://del.dog/optimizedex.go
+
 ## _Corvus v15.0 RavenClaw Changelogs for Miatoll_
 
 - Removed removed IAuthSecret, was spamming crashes in logs.
