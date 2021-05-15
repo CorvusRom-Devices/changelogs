@@ -16,3 +16,11 @@ Device Changelog:
 - Disabled wifi display for now
 - Selinux Still Permissive
 - Added Surfaceflinger Blur
+
+- Corvus V15.0 - R
+
+
+- Changed To Eas Tree
+- update tree from lineage
+- Enforcing Build now!
+- Update blobs from Lake
