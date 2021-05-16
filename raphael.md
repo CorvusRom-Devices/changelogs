@@ -1,3 +1,45 @@
+** v16.0-Alpha-Centauri Miui Vendor Changelogs **
+- Switched to Enforcing User build
+- Added battery health support again (since last release)
+- Fixed smart charging
+- Added Pixel offline charging animation
+- Disabled LiveDisplay
+- rootdir: Allowed all filesystems for USB-OTG
+- Updated fstab entry to auto mount USB storage devices for msmnile
+- Added metadata mount command in recovery fstab since partition should be wiped during recovery process
+- Added 'check' flag for metadata partition
+- Enabled usage of dex2oat64
+- Configured SQLite to operate in MEMORY mode
+- bluetooth: Disable clean turn on
+- Adjusted dex2oat thread count after setup wizard
+- Improved values for lockscreen charging info
+- Enabled Fast bss transition config
+- Enable minimum confirmation duration for sending network score to connectivity service
+- Wifi - Extend config_wifi_framework_recovery_timeout_delay to 3 seconds
+- Wifi: Disabled WPA2 to WPA3 auto-upgrade in P18 and P19 devices
+- Removed PRODUCT_AAPT config
+- Added kpti=off to boot command line
+- Fixed thermal/touchscreen profiles not getting restored after turning screen back on
+- parts: Improved strings for game mode
+- parts: Display icon beside thermal profiles
+- Updated Thermal Profiles drawable icons
+- disabled soundtrigger via vendor overlay
+- WifiOverlay: Updated from CAF tag LA.UM.9.1.r1-09100-SMxxx0.0
+- org.ifaa.android.manager: Access mlipay hal via a binder service
+- overlay: Add regulatory info label
+- FaceUnlockService: Define delay for our popup camera
+- overlay: Improved face unlock for popup camera
+- Dirac: Added bass booster preset
+- parts: Implemented Clear Speaker
+- parts: Increaseed BootCompletedReceiver priority
+- Enabled Seamless Transfer
+- set TARGET_INPUTDISPATCHER_SKIP_EVENT_KEY to 338
+- fod: drop \n from logs
+- Updated SELinux boot error
+- Disabled WiFi Aware feature
+- Enable freeform window management
+- Bluetooth: Swithced to AOSP bluetooth
+
 ** v14.5-Mutate Miui Vendor Changelogs **
 - Fixed FOD Flickers
 - Moar FOD Improvements
