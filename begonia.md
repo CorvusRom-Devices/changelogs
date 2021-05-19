@@ -1,5 +1,10 @@
 ## REDMI NOTE 8 PRO
-
+#Corvus v16.0
+• Enabled MTK Neural networks HAL
+• Updated APN Configs
+• Switched to Enforcing Build
+• Added Dolby
+• Fixed Night light
 # CORVUS v14.0 
 - Vendor Blobs Sync With MiUi 12
 - NON-CFW Build
