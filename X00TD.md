@@ -1,19 +1,22 @@
 ## ZenFone Max Pro M1
 
-# Corvus OS v15.0 | RavenClaw | Android 11 | STABLE
+# Corvus OS v16.0 | Alpha-Centauri | Android 11 | STABLE
 Device Changelog:
-- Upstreamed kernel to Linux Version 4.4.262.
-- Updated inbuilt spectrum script.
-- Updated ril,ims and dpm blobs from Jasmine V11.0.21.0.QDIMIXM.
-- Updated audio and perf blobs from Jasmine V11.0.21.0.QDIMIXM.
-- Updated egl and graphics blobs from ASUS_X00TD-438.
-- Fixed screen freeze on first boot.
-- Fixed audio crack for some apps.
-- Fixed dual volte service for both sim cards.
-- Fixed hotword enrollment for 'OK Google'.
-- Improved audio quality and loudness.
-- Improved deep sleep in inbuilt kernel.
-- Removed inbuilt Moto Dolby.
+- Upstreamed kernel to Linux Version 4.4.268.
+- Revert wlan drivers to 'LA.UM.7.2.c6-09200-sdm660.0'.
+- Updated ril and dpm blobs from jasmine V11.0.21.0.QDIMIXM.
+- Updated ubc and perf blobs from jasmine V11.0.21.0.QDIMIXM.
+- Added and Updated Dolby blobs from Moto sofiap.
+- Fixed Nightlight crash when set to sunset to sunrise.
+- Fixed mic issue with hotword enrollment for 'OK Google'.
+- Improved wifi speed from previous update.
+- Improved audio quality and loudness from previous update.
+- Improved bass effect for Dolby.
+- Improved GCam Image processing time.
+- Enabled interaction boost and improved scrolling and smoothness.
+- Drop Qualcomm Location Support and Switch to AOSP location support.
+- Blur is optional and disabled by default
+- More stability and Improvements from previous update.
 
 # Corvus OS | Android 10 | Feburary Update
 Device Changelog:
