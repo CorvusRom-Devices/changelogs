@@ -1,3 +1,6 @@
+** v16.5-Alpha-Centauri Miui Vendor Changelogs **
+- Fixed all Bluetooth issues
+
 ** v16.0-Alpha-Centauri Miui Vendor Changelogs **
 - Switched to Enforcing User build
 - Added battery health support again (since last release)
