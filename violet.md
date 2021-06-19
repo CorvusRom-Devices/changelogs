@@ -1,5 +1,20 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus V16.5 - AlphaCenturi
+- Source Upstream
+- Kernel Upstream (its Cygnus-X1 now)
+- Rebased to PE Trees (thanks to @dasshubham762)
+- Switched to user build
+- Fixed some logcat spam
+- Limit screen recorder to 60fps 
+- Fixed some overlays
+- Improved out of the box experience
+- Fixed VoIP calls related issues
+- Removed Violet Parts
+- Added Dirac and Clean Speaker to Sounds
+- Added GCamGo as prebuilt
+- Some other misc changes and improvements
+
 ## Corvus V15.0 - RavenClaw
 - Source upstream
 - Revert back to Smoothaf kernel(Mars - 2077)
