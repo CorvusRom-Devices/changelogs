@@ -1,3 +1,20 @@
+## _Corvus-OS v16.5 Alpha Centauri Changelogs for Miatoll_
+
+- Selinux=Enforcing.
+- Encrypted Build
+- USER BUILD
+- ofc Fixed Neverallows
+- CTS will Fail, Use Saftynet fix and redfin may FP patch magisk Module to fix it.
+- *Important, Flashing Redfin May FP Module will broke ANX CAM*
+- Also Read Notes.
+
+--Notes--
+- Clean Flash Compulsory. Cause UserBuilds from Now.
+- Suggestion- For Gaming, Vanilla Build with Custom Kernel without any gapps will give more Performance.
+- Bugs Reporting with logs are welcomed.
+- If safetyNet fails then use Magisk Module / It wont fail as Rom have CTS props.
+- It is Compulsory to do this after installing all Apps, Also Read/Understand/Do-it this https://del.dog/optimizedex.go
+
 ## _Corvus-OS v16.0 Alpha Centauri Changelogs for Excalibur_
 
 - Initial Build for Excalibur Only.
