@@ -1,3 +1,25 @@
+## _Corvus-OS v16.5 Alpha Centauri Changelogs for Gram_
+
+- Initial Build for Gram Only
+- Switched to Userbuild
+- Switched to prebuilt audio Hal (echo should be fixed)
+- Safety Net Passes by default
+- Lightning+ kernel by default
+- Selinux=Enforcing
+- Vibration Fixed 
+- Also more but I forgot
+- Also read notes 
+
+--Notes--
+-Clean Flash Compulsory. Cause UserBuilds from Now.
+
+-Suggestion- For Gaming, Vanilla Build with Custom Kernel without any gapps will give more Performance.
+
+-Bugs Reporting with logs are welcomed. (Report with #grambug with describing the error and providing log in grp)
+
+-Those don't wanna use the default camera u can use this one NgCam and it's xml.See grp notes for camera apk and xml (Recommend)
+
+
 ## _Corvus-OS v16.0 Alpha Centauri Changelogs for Gram_
 
 - Initial Build for Gram Only.
