@@ -6,30 +6,267 @@
 		<th>A Only</th>
 		<th>A/B</th>
 	</tr>
-    <tr>
+	<tr>
 		<th>ARM32</th>
-		<td></td>
-		<td></td>
+		<td>
+			<table>
+                		<tr>
+					<th>Non-Gapps</th>
+					<td></td>
+                		</tr>
+                		<tr>
+					<th>Gapps</th>
+					<td></td>
+                		</tr>
+        		</table>
+		</td>
+		<td>
+			<table>
+                		<tr>
+					<th>Non-Gapps</th>
+					<td></td>
+                		</tr>
+                		<tr>
+					<th>Gapps</th>
+					<td></td>
+                		</tr>
+        		</table>
+		</td>
 	</tr>
-    <tr>
+	<tr>
 		<th>ARM32_binder64</th>
 		<td>N/A</td>
 		<td>
-        	<table>
-                <tr>
-                	<th>VNDK Lite</th>
-                    <td></td>
-                </tr>
-                <tr>
-                	<th>VNDK Non-Lite</th>
-                    <td></td>
-                </tr>
-        	</table>
-        </td>
+        		<table>
+                		<tr>
+					<th>VNDK Lite</th>
+					<td>
+						<table>
+                					<tr>
+								<th>Non-Gapps</th>
+								<td></td>
+                					</tr>
+                					<tr>
+								<th>Gapps</th>
+								<td></td>
+                					</tr>
+        					</table>
+					</td>
+                		</tr>
+                		<tr>
+					<th>VNDK Non-Lite</th>
+					<td>
+						<table>
+                					<tr>
+								<th>Non-Gapps</th>
+								<td></td>
+                					</tr>
+                					<tr>
+								<th>Gapps</th>
+								<td></td>
+                					</tr>
+        					</table>
+					</td>
+                		</tr>
+        		</table>
+        	</td>
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td></td>
+		<td>
+			<table>
+                		<tr>
+					<th>Non-Gapps</th>
+					<td></td>
+                		</tr>
+                		<tr>
+					<th>Gapps</th>
+					<td></td>
+                		</tr>
+        		</table>
+		</td>
+		<td>
+			<table>
+  				<tr>
+					<th>VNDK Lite</th>
+					<td>
+						<table>
+                					<tr>
+								<th>Non-Gapps</th>
+								<td></td>
+                					</tr>
+                					<tr>
+								<th>Gapps</th>
+								<td></td>
+                					</tr>
+        					</table>
+					</td>
+                		</tr>
+                		<tr>
+					<th>VNDK Non-Lite</th>
+					<td>
+						<table>
+                					<tr>
+								<th>Non-Gapps</th>
+								<td></td>
+                					</tr>
+                					<tr>
+								<th>Gapps</th>
+								<td></td>
+                					</tr>
+        					</table>
+					</td>
+				</tr>
+        		</table>
+        	</td>
+	</tr>
+</table>
+-->
+
+<!--
+	Emojis
+		✓ - Tick
+		✕ - Cross
+-->
+
+## CorvusOS v16.5 Alpha-Centauri
+### 2021-06-23 (Beta)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM32</th>
+		<td>
+			<table>
+                		<tr>
+					<th>Non-Gapps</th>
+					<td>✓</td>
+                		</tr>
+                		<tr>
+					<th>Gapps</th>
+					<td>✓</td>
+                		</tr>
+        		</table>
+		</td>
+		<td>
+			<table>
+                		<tr>
+					<th>Non-Gapps</th>
+					<td>✓</td>
+                		</tr>
+                		<tr>
+					<th>Gapps</th>
+					<td>✓</td>
+                		</tr>
+        		</table>
+		</td>
+	</tr>
+	<tr>
+		<th>ARM32_binder64</th>
+		<td>N/A</td>
+		<td>
+        		<table>
+                		<tr>
+					<th>VNDK Lite</th>
+					<td>
+						<table>
+                					<tr>
+								<th>Non-Gapps</th>
+								<td>✓</td>
+                					</tr>
+                					<tr>
+								<th>Gapps</th>
+								<td>✓</td>
+                					</tr>
+        					</table>
+					</td>
+                		</tr>
+                		<tr>
+					<th>VNDK Non-Lite</th>
+					<td>
+						<table>
+                					<tr>
+								<th>Non-Gapps</th>
+								<td>✓</td>
+                					</tr>
+                					<tr>
+								<th>Gapps</th>
+								<td>✓</td>
+                					</tr>
+        					</table>
+					</td>
+                		</tr>
+        		</table>
+        	</td>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>
+			<table>
+                		<tr>
+					<th>Non-Gapps</th>
+					<td>✓</td>
+                		</tr>
+                		<tr>
+					<th>Gapps</th>
+					<td>✓</td>
+                		</tr>
+        		</table>
+		</td>
+		<td>
+			<table>
+  				<tr>
+					<th>VNDK Lite</th>
+					<td>
+						<table>
+                					<tr>
+								<th>Non-Gapps</th>
+								<td>✓</td>
+                					</tr>
+                					<tr>
+								<th>Gapps</th>
+								<td>✓</td>
+                					</tr>
+        					</table>
+					</td>
+                		</tr>
+                		<tr>
+					<th>VNDK Non-Lite</th>
+					<td>
+						<table>
+                					<tr>
+								<th>Non-Gapps</th>
+								<td>✓</td>
+                					</tr>
+                					<tr>
+								<th>Gapps</th>
+								<td>✓</td>
+                					</tr>
+        					</table>
+					</td>
+				</tr>
+        		</table>
+        	</td>
+	</tr>
+</table>
+
+- Bump to v16.5
+- Update to phh patches r38
+
+## CorvusOS v16.0 Alpha-Centauri
+### 2021-05-10 (Pre-Beta)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>✓</td>
 		<td>
         	<table>
                 <tr>
@@ -44,13 +281,9 @@
         </td>
 	</tr>
 </table>
--->
 
-<!--
-	Emojis
-		✓ - Tick
-		✕ - Cross
--->
+- Bump to v16.0
+- Update to phh patches r37
 
 ## CorvusOS v15.0 RavenClaw
 ### 2021-03-29 (Alpha)
