@@ -266,7 +266,7 @@
 	</tr>
 	<tr>
 		<th>ARM64</th>
-		<td>✓</td>
+		<td>✕</td>
 		<td>
         	<table>
                 <tr>
@@ -275,7 +275,7 @@
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td>✕</td>
+                    <td>✓</td>
                 </tr>
         	</table>
         </td>
