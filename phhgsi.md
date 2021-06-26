@@ -271,11 +271,11 @@
         	<table>
                 <tr>
                 	<th>VNDK Lite</th>
-                    <td></td>
+                    <td>✕</td>
                 </tr>
                 <tr>
                 	<th>VNDK Non-Lite</th>
-                    <td></td>
+                    <td>✕</td>
                 </tr>
         	</table>
         </td>
