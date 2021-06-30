@@ -24,3 +24,14 @@ Device Changelog:
 - update tree from lineage
 - Enforcing Build now!
 - Update blobs from Lake
+
+- Corvus V16.6 - R
+
+
+- Changed To Cybetron Kernel
+- update tree from lineage
+- RavenDesk for ota
+- Updated FP
+- Addead Perf Props
+- Add Gapps
+- 
