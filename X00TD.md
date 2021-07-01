@@ -1,5 +1,18 @@
 ## ZenFone Max Pro M1
 
+# Corvus OS v16.6 | Paradox | Android 11 | STABLE
+Device Changelog:
+- Safe and Secure USER build.
+- Upstreamed kernel to Linux Version 4.4.274.
+- Updated ril blobs from jasmin latest release.
+- Update thermal config for performance improvement.
+- Update MotoDolby3 from latest sofiap_sprout.
+- Switch to QTI bluetooth and enabled a2dp offload.
+- Fixed Bluetooth for devices using LDAC codec.
+- Fixed double-tap to wake for NVT users.
+- Fixed Hotspot connection issue.
+- More Improvents under the hood.
+
 # Corvus OS v16.5 | JUNE | Android 11 | STABLE
 Device Changelog:
 - Safe and Secure USER build.
