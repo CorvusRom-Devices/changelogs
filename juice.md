@@ -1,5 +1,10 @@
 ## POCO M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G 
 
+## Corvus V16.6 Changelog (30/06/21)
+
+- Added Pixel offline charging animation
+- Switch Skia rendering backend to OpenGL
+
 ## Corvus V16.5 Changelog (23/06/21)
 
 - Initial official build
