@@ -11,6 +11,7 @@ Device Changelog:
 - Fixed Bluetooth for devices using LDAC codec.
 - Fixed double-tap to wake for NVT users.
 - Fixed Hotspot connection issue.
+- Free and Unlimited storage for Google Photos.
 - More Improvents under the hood.
 
 # Corvus OS v16.5 | JUNE | Android 11 | STABLE
