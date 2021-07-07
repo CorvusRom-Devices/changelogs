@@ -1,5 +1,11 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus V16.6 - Paradox
+- Source Upstream
+- Added USB 3.0 Fast Charging by default
+- Fixed Call Recording in Vanilla
+- Some minor improvements and fixes
+
 ## Corvus V16.5 - AlphaCenturi
 - Source Upstream
 - Kernel Upstream (its Cygnus-X1 now)
