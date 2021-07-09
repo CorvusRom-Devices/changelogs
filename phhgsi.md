@@ -129,6 +129,35 @@
 		✕ - Cross
 -->
 
+## CorvusOS v16.6 Paradox
+### 2021-07-08 (Beta-Official)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>✕</td>
+		<td>
+        	<table>
+                <tr>
+                	<th>VNDK Lite</th>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                	<th>VNDK Non-Lite</th>
+                    <td>✓</td>
+                </tr>
+        	</table>
+        </td>
+	</tr>
+</table>
+
+- Update to CorvusOS v16.6 Paradox
+- Add AndyCGYan's patches
+
 ## CorvusOS v16.5 Alpha-Centauri
 ### 2021-06-23 (Beta)
 <table>
