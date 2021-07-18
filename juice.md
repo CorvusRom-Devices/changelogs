@@ -3,11 +3,11 @@
 ## Corvus V16.6 Changelog (30/06/21)
 
 - Added Pixel offline charging animation
-- Switch Skia rendering backend to OpenGL
+- Switched to OpenGL as UI renderer
 
 ## Corvus V16.5 Changelog (23/06/21)
 
 - Initial official build
-- Switched to User & Enforcing build for more safety
-- SafteyNet pass without root
+- Switched to User & Enforcing build
+- SafetyNet pass without root
 - Debloated GApps
