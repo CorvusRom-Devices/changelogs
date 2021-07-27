@@ -1,3 +1,32 @@
+** v16.7-Obsidian Miui Vendor Changelogs **
+- Updated and remove pinner services for R
+- Updated path for pinner services
+- Removes unneeded FodZOrder value - Fixes random flickering in different situations like when DC-Dimming on & using low brightness
+- Enable fluence voice recording - Fixed google voice recorder
+- Import qdcm_calib_data from Miui Q
+- Restored old panel configuration - Fixes yellow tint on boot
+- Tuned ime padding
+- Restored the LED's previous state after popup cam
+- Disabled hifi preference when toggling switchbar
+- parts: Directly takeback the motor if it's not closed on create
+- Added ability to Quickly takeback the motor in free fall
+- Disabled popup camera sound by default
+- Updated Hotword permissions & import necessary blobs
+- Imported audio_policy_configuration.xml from Miui Q
+- Disabled ULL mode
+- Added hotword input for hotword mic concurrency
+- Made FOD background completely transparent
+- Used LOS like default FOD icon
+- Updated fingerprint for Indian variant
+
+** v16.7-Obsidian OSS Vendor Changelogs **
+- Initial OSS Build
+- Updated Blobs from latest raphael-user 11 RKQ1.200826.002 21.6.30
+- Whitelisted ANX for size stream skip
+- Imported lights HAL from Xiaomi msm8998-common
+- Added new miui offline charging daemon from cmi R
+
+
 ** v16.5-Alpha-Centauri Miui Vendor Changelogs **
 - Fixed all Bluetooth issues
 
