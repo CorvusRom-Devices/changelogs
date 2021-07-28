@@ -1,6 +1,6 @@
 ## ZenFone Max Pro M1
 
-# Corvus OS v16.7 | Paradox | Android 11 | STABLE
+# Corvus OS v16.7 | Obsidian | Android 11 | STABLE
 Device Changelog:
 - Safe and Secure USER build.
 - Upstreamed kernel to Linux Version 4.4.276.
