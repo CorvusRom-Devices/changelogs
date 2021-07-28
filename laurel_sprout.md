@@ -1,8 +1,10 @@
 ## Xiaomi MI A3 
 
-## Corvus V16.5 Changelog
+## Corvus V16.7 Changelog
 
-ONLY FOR A10FW
-- Initial official build
-- Switched to User & Enforcing build for more safety
-- SafteyNet Pass without root
+- A11fw build added
+- Updated Redfin's july fp
+- User & Enforcing build for more safety
+- SafteyNet Pass without root as usual
+- Added unlimited photos haxx
+- Dropped smart Charging 
