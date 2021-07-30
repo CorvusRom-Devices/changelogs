@@ -3,6 +3,7 @@
 - Same kernel as before (Lightning+)
 - Fixed heating on charging ( Thanks to @sairam60 )
 - Fixed High Active and Idle drain
+- Unlimited original quality photo backup
 - Switched to in tree QTI vibrator hal
 - Safety Net passess by default
 - Switch to any kernel will work fine 
