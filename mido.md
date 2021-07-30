@@ -1,5 +1,27 @@
 # Redmi Note 4x Mido
 
+## Corvus v16.7
+- Fixed fps monitor
+- Fixed crackling sound issue
+- Fixed HW keys and Gestures both working at same time 
+- Fixed some fpsmon and thermal engine sepolicy
+- Added AOSP calculator
+- Added july FP from redfin
+- Added Latest sleepy kernel by shashank1436
+- Added Latest sleepy thermals by shashank1436
+- Added latest caf powerhint
+- Added back clock [Unfortunately it was removed in last update]
+- Dropped bogus tombstone dir at bootup [This are debug stuff]
+- Dropped depreciated Bluetooth stuff
+- Dropped default BFQ flag
+- Dropped audio-app cpuset [Depreciated]
+- Dropped/disabled vsync for cpu rendred apps
+- Updated all propiertary blobs from caf
+- Updated latest hals by smokey18
+- Updated simplekeyboard to 5.3
+- Updated Bromite webview
+- Reduced screen off delay time to 0ms
+
 ## Corvus v8.5
 
 - Removed dolby audio
