@@ -1,4 +1,11 @@
 # Redmi Note 7/7s Lavender 
+
+
+# Version v16.7 kernel 4.4 (31-07-2021)
+
+- Initial Android 11 Release
+- SELinux Status: enfocing + user 
+
 # Version 15.0 kernel 4.19 (26-03-2021)
 # General:
 * Add Gboard in Vanilla build
