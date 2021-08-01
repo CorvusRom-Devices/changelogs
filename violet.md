@@ -1,5 +1,11 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus V16.7 - Obsidian
+- Source Upstream
+- Switched to Nigandu Kernel
+- Update blobs from davinci-user 11 RKQ1.200826.002 21.6.11 Release keys
+- Fix BlurUI
+
 ## Corvus V16.6 - Paradox
 - Source Upstream
 - Added USB 3.0 Fast Charging by default
