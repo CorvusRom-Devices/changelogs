@@ -34,4 +34,7 @@ Device Changelog:
 - Updated FP
 - Addead Perf Props
 - Add Gapps
-- 
+
+Corvus V16.7 - R
+
+- Update FP
