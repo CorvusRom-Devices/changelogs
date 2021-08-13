@@ -1,5 +1,18 @@
 ## ZenFone Max Pro M1
 
+# Corvus OS Android 10 | Extinction | August-2021 | STABLE
+Device Changelog:
+- Upstreamed kernel to Linux Version 4.4.279.
+- Update ril blobs from jasmin latest release.
+- Update thermals from stock 438.
+- Added ASUS Calculator as prebuilt calculator.
+- Fixed black screen stucking issue.
+- Fixed Dual 4g and no network issue.
+- Fixed Hotword-Enrollment for Ok-google.
+- Fixed call recording issue.
+- Support unlimited storage for Google Photos.
+- More Improvents under the hood.
+
 # Corvus OS v16.7 | Obsidian | Android 11 | STABLE
 Device Changelog:
 - Safe and Secure USER build.
