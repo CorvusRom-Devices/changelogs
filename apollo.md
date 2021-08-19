@@ -1,5 +1,19 @@
 # Xiaomi Mi 10T / Mi 10T Pro / Redmi K30S Ultra 
 
+## Corvus V16.8 - Avalon - device changelog (19/08/21)
+
+- Updated firmware to V12.5.1.0.RJDMIXM
+- Switched to QTI BT thanks to GoodMeow
+- Added a Ring on the camera when it's in use or avoid halo effect, thanks to Dobsgw
+- August Security Patch
+- Add FPS information tile
+- Switch to proton-clang for kernel building thanks to ejbtrd
+- Dex2oat64
+- Change dexopt profiles to aosp recommended thanks to Dobswg
+- Added per-app thermals thanks to Dobswg
+- More stuff behind the scenes. Should be smoother.
+- Thanks to Rami, Dobsgw, ejbtrd, Agmad, mhmdev, and all the Apollo build team.
+
 ## Corvus V16.7 device changelog (26/07/21)
 
 - Improved Brightness
