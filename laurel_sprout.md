@@ -1,10 +1,7 @@
 ## Xiaomi MI A3 
 
-## Corvus V16.7 Changelog
+## Corvus V16.8 Changelog
 
-- A11fw build added
-- Updated Redfin's july fp
-- User & Enforcing build for more safety
-- SafteyNet Pass without root as usual
-- Added unlimited photos haxx
-- Dropped smart Charging 
+-Update redfinfp to August.
+-Switch to pure R hals for A11Fw build.
+-Dropped support for a10Fw build.
