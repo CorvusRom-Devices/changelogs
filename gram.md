@@ -1,3 +1,23 @@
+## _Corvus-OS v16.8 Avalon Changelogs for Gram_
+
+- Same kernel as before (Lightning+)
+- Define OEM fast charge sysfs node
+- Build Thermal 2.0 service
+- Unlimited original quality photo backup 
+- Safety Net passess by default
+- Switch to any kernel will work fine 
+- Much more that i dont remember
+- Read notes 
+
+
+--Notes--
+- Clean Flash Compulsory. Cause UserBuilds from Now.
+- Suggestion- For Gaming, Vanilla Build with Custom Kernel without any gapps will give more Performance.
+- Bugs Reporting with logs are welcomed. (Report with #grambug with describing the error and providing log in grp)
+- Those don't wanna use the default camera u can use this one NgCam and it's xml.See grp notes for camera apk and xml (Recommend)
+- Facing random screenlocks , turn off reticker
+
+
 ## _Corvus-OS v16.7 Obsidian Changelogs for Gram_
 
 - Same kernel as before (Lightning+)
