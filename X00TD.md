@@ -1,5 +1,17 @@
 ## ZenFone Max Pro M1
 
+# Corvus-OS 16.8 | Avalon | Android 11 | STABLE
+Device Changelog:
+- Safe and Secure USER build.
+- Upstreamed kernel to Linux Version 4.4.281.
+- Switched to R audio HAL.
+- Improved audio output and bass.
+- Fixed blur lag completely.
+- Fixed bluetooth issue with aptX devices.
+- Fixed lag for Dialer with bluetooth.
+- Fixed theme reset issue.
+- More Improvents under the hood.
+
 # Corvus OS Android 10 | Extinction | August-2021 | STABLE
 Device Changelog:
 - Upstreamed kernel to Linux Version 4.4.279.
