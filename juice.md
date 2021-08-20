@@ -1,5 +1,13 @@
 ## POCO M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G 
 
+## Corvus V16.8 Changelog (19/08/21)
+
+- August Security Patch
+- Switched to QTI Power HAL
+- Adjusted zram write back policy
+- Removed virtual framebuffer
+- Shipped with Atlas 4.19.157 kernel
+
 ## Corvus V16.7 Changelog (26/07/21)
 
 - July Security Patch
