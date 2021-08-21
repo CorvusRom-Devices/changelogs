@@ -12,7 +12,7 @@
 - lavender: overlay: Force show network traffic on statusbar
 - lavender: overlay: Disable UI touch sounds by default
 - lavender: overlay: Disable wallpaper zooming
-- lavender : properly set all bliss related overlays
+- lavender : properly set all corvus related overlays
 - lavender: Force triple frame buffers
 - lavender: wlan: Relax WiFi re-association RSSI
 - lavender: Add overlay for masking the notch
