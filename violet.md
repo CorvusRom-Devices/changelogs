@@ -1,5 +1,12 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus V16.8 - Avalon
+- Source Upstream
+- Add more presets to dirac
+- Increased mic gain with +2.5db in calls
+- Add compress recording configurations
+- Some misc changes. (you can check it [here](https://github.com/CorvusRom-Devices/device_xiaomi_violet/commits/11))
+
 ## Corvus V16.7 - Obsidian
 - Source Upstream
 - Switched to Nigandu Kernel
