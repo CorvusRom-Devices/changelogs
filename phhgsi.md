@@ -129,6 +129,36 @@
 		✕ - Cross
 -->
 
+## CorvusOS v16.7 Obsidian
+### 2021-08-05 (Beta-Official)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>✕</td>
+		<td>
+        	<table>
+                <tr>
+                	<th>VNDK Lite</th>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                	<th>VNDK Non-Lite</th>
+                    <td>✓</td>
+                </tr>
+        	</table>
+        </td>
+	</tr>
+</table>
+
+- Welcome to CorvusOS 16.7 Obsidian!
+- PHH Treble patchset has been updated to v310 (r39)
+- Now using our own FOD implementation instead of PHH's
+
 ## CorvusOS v16.6 Paradox
 ### 2021-07-08 (Beta-Official)
 <table>
