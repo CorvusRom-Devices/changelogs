@@ -1,0 +1,83 @@
+====================
+     08-22-2021
+====================
+
+* device/oneplus/sm8250-common
+045d429 libinit: add proper model detection for OP8/8P/8T
+03cc98b Enable blurs, under display-settings
+
+====================
+     08-21-2021
+====================
+
+* device/oneplus/sm8250-common
+c4d8a60 Build GCam
+e7ad8b3 Add DeviceSettings (Oneplus Settings)
+3b85af1 Enable ColorMode
+9455be3 Nuked los touch
+4398c4d Import DC-Dimming
+
+* vendor/corvus
+2f51a04  corvus: Add vayu
+32dd0cc  Add SFProDisplay font
+
+====================
+     08-20-2021
+====================
+
+* device/oneplus/sm8250-common
+d0e4b26 sepolicy: label hwservice denials for fod & touch 
+
+* vendor/corvus
+26b265a  Again
+
+====================
+     08-19-2021
+====================
+
+* vendor/corvus
+3377f31  Fix typo
+277e2fc  vendor: don't generate ota json for all devices and add it as funtion
+
+====================
+     08-18-2021
+====================
+
+* frameworks/base
+0e16e56  QSPanel: Fix StatusIcons padding
+88bd2ba  Update dogbin toast to Hastebin
+
+
+* packages/apps/CorvusWalls
+6a90341  August walls update
+
+
+* packages/apps/Launcher3
+d7060b4  Recents: Lets actually kill apps completely
+20edde1  Revert "Launcher3: Enable share button on recents by default"
+
+
+* packages/apps/OmniStyle
+bb792c8  add icon man headers
+
+
+* packages/apps/Settings
+5952b0a  Revert "Remove Display cutout emulation"
+7fa5f54  Take users to Corvus website not github
+959c761  Merge branch '11' of https://github.com/Corvus-R/android_packages_apps_Settings into HEAD Change-Id: I044cd5297af3a5c9128aab1d14dda5d01ffd0afb
+6a2ccf2  Add Shadow to battery meter percent
+
+
+* packages/apps/SettingsIntelligence
+95073d8  Revert "InstalledAppResultTask: Remove overlays from search results"
+c6759d0  Revert "fixup - InstalledAppResultTask: Remove overlays from search results"
+a3cccf4  Revert "SettingsIntelligence: add access to private platform APIs"
+
+
+* vendor/corvus
+15d38b2  Merge branch '11' of https://github.com/Corvus-R/vendor_corvus into 11-final
+fcb6364  vendor: Generate pling links for every suppported device
+78d48a1  ota: Fix ota json generation for devices having underscore in codename
+ed1a22a  Revert "Update to Corvus 16.8-Avalon"
+c5397af  Align again to fetch the update
+
