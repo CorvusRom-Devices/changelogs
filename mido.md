@@ -1,5 +1,21 @@
 # Redmi Note 4x Mido
 
+## Corvus v16.8
+- Fixed Audio while calling & earphone stuff
+- Fixed some apps detecting root/safteynet bug
+- Fixed boot scripts [will improve boot speed]
+- Fixed some permissions
+- Fixed iorap [increases app launch speed]
+- Added new audio flags from caf
+- Added back calender provider [will fix calender app crashing]
+- Added bromite browser
+- Added exactcalculator [aosp calculator]
+- Updated audio policy
+- Updated powerhint
+- Updated august redfin FP
+- Decrease aod brightness to 0
+- Reset back to stock thermals
+
 ## Corvus v16.7
 - Fixed fps monitor
 - Fixed crackling sound issue
