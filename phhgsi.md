@@ -129,6 +129,36 @@
 		✕ - Cross
 -->
 
+## CorvusOS v16.8 Avalon
+### 2021-08-25 (Beta-Official)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>✕</td>
+		<td>
+        	<table>
+                <tr>
+                	<th>VNDK Lite</th>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                	<th>VNDK Non-Lite</th>
+                    <td>✓</td>
+                </tr>
+        	</table>
+        </td>
+	</tr>
+</table>
+
+- Welcome to CorvusOS v16.8 Avalon!
+- Update to PHH to r40
+- Includes Magisk /sbin fix
+
 ## CorvusOS v16.7 Obsidian
 ### 2021-08-05 (Beta-Official)
 <table>
