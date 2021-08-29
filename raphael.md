@@ -1,3 +1,30 @@
+** v16.8-Avalon OSS Vendor Changelogs **
+- Completely swithced to New a11 FW tree
+- Added missing WFD blobs
+- Import mi_thermald missing permissions
+- Enabled coral vibration configuration
+- Added config to exclude haptics devices from input subsystem
+- Synced power_profile.xml from V12.5.2.0.RFKMIXM
+- enabled unspecialized app process pool
+- Added zram config
+- Updateed clear speaker audio from MIUI 12
+- Added headphones warning for clear speaker
+- Enable subtle tick vibration when revealing shelf
+- Defaulted to full gesture navigation
+- overlay: adjusted window rounded corners
+
+** v16.8-Avalon Miui Vendor Changelogs **
+- Updated power profile
+- overlay: Hide unsupported color effects entry of Snap
+- overlay: Added Snap overlay
+- Enabled aux camera for Snap
+- whitelisted ANX for size stream skip
+- Updated clear speaker audio from MIUI 12
+- Added headphones warning for clear speaker
+- Enable subtle tick vibration when revealing shelf
+- Defaulted to full gesture navigation
+- overlay: adjusted window rounded corners
+
 ** v16.7-Obsidian Miui Vendor Changelogs **
 - Updated and remove pinner services for R
 - Updated path for pinner services
