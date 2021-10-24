@@ -1,6 +1,46 @@
 # Redmi Note 7/7s Lavender 
 
 
+# Version v17 Kernel 4.4 (24-10-2021)
+
+- lavender:init:Add script for exTHmUI's GameMode performance control
+- lavender: product.prop : add gboard props
+- lavender:Disable kpti
+- lavender: init: Use more generic values for GameMode
+- lavender: overlay-lineage: Enable call recording
+- lavender: Add battery LED overlays
+- lavender: disable config_multiColorBatteryLed
+- address overlay-directory 
+- lavender: Adjust QS tile rows and columns
+- lavender:configs: Update whitelisting for HotwordEnrollment
+- lavender:Uprev camera.provider to 2.6
+- lavender:Add permission for Google Photos
+- Add other prop for rounded corner
+- lavender: Remove vibrator HAL interface
+- lavender: vibrator: Enable LED based vibrator
+- lavender: vibrator: Add config to exclude haptics devices from input
+- Switched to qti haptics 
+- lavender: overlay: define proper content padding
+- clean up some blobs
+- lavender: powerhint: reduce default GPU idle timer to 70 ms
+- lavender: powerhint: Boost TAStuneboost to 10 for interaction
+- lavender: Tune powerhint
+- lavender: Update blobs from lavender
+- lavender : remove trustzone fw restrictions
+- lavender: Kill console parameters
+- lavender: Remove USE_XML_AUDIO_POLICY_CONF
+- lavender: Remove PRODUCT_COMPATIBLE_PROPERTY_OVERRIDE
+- lavender: Remove PRODUCT_COMPATIBLE_PROPERTY_OVERRIDE
+- lavender: Remove BOARD_PROPERTY_OVERRIDES_SPLIT_ENABLED
+- lavender: Stop building android.hardware.broadcastradio HIDL impl
+- lavender: libhidl: Move to Android.bp
+- lavender: Remove vndk-ext
+- lavender: libshims: Move to Android.bp
+- lavender: update redfin build fingerprint
+- lavender: Remove ESE power management blobs
+- lavender: Cleanup some non existent and unessential services
+- lavender: Drop Qualcomm WFD
+
 # Version v16.8 kernel 4.4 (21-08-2021)
 
 - Vilte support added 
