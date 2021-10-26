@@ -1,5 +1,14 @@
 ## POCO M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G 
 
+## Corvus V17.0 Changelog (26/10/21)
+
+- October Security Patch
+- Adjusted audio output
+- Shipped with Strombreaker kernel
+- Reworked Status Bar Paddings
+- Some UI Improvements
+- And More Bug Fixes and Improvements
+
 ## Corvus V16.8 Changelog (19/08/21)
 
 - August Security Patch
