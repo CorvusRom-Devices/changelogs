@@ -1,3 +1,18 @@
+# Mi A1 tissot
+
+
+# Corvus V17.0 Changelog (26/10/21)
+
+-updated gps config for 
+-switched to sunfish build fp October
+-disable nearby service 
+-Add offline charging LED indicator
+-Increase no. of visible max notifications icons to 7
+-Enable RAW10 buffer fix in gralloc (fixes gcam hdr+ with RAW10 format)
+-Add new camera2 hardware features
+-fix sim resetpostreboot
+-Configure SQLite to operate in MEMORY
+
 Android 10 Changelog:
 
 CHANGELOGS 2020-09-19
