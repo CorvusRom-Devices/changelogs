@@ -1,5 +1,16 @@
 ## ZenFone Max Pro M1
 
+# Corvus-OS 17.0 | Vanguard | Android 11
+Device Changelog:
+- Safe and Secure USER build.
+- Upstreamed kernel to Linux Version 4.4.290.
+- Improved audio loudness from speaker.
+- Updated audio configs from LA.UM.9.2.r1-03600-SDMxx0.0
+- Update qti-telephony from LA.QSSI.11.0.r1-11600-qssi.0
+- Build with AOSP surfaceflinger.
+- Dirac, Dolby and HotwordEnrolment support have been Dropped.
+- More Improvents under the hood.
+
 # Corvus-OS 16.8 | Avalon | Android 11 | STABLE
 Device Changelog:
 - Safe and Secure USER build.
