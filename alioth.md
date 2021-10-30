@@ -1,0 +1,15 @@
+17.0
+-  Drop AOSP lights AIDL and switch to AOSP light HIDL * For some reason Corvus don't boot>
+-  Nuke G-Cam Go
+-  Set config_battCurrentDivider
+-  Add missing app lock sepolicy
+-  kona: Fix Dolby conflict
+-  kona: Audio flags rework
+-  gpt-utils: Add missed featenabler into partition swap list to allow featenabler to be O>
+-  List missed touchfeature binary
+-  prop: Enable pre-rendering
+-  Enable Adaptive Sleep / Screen Attention
+-  Switch to new implementation of dolby
+-  Switch to my perf
+-  build by shubham 
+-  Set Bluetooth MAC address using persist property
