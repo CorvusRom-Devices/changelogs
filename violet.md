@@ -1,5 +1,12 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus V17.0 - Vangaurd
+- Source Upstream
+- Update graphics from LA.UM.9.1.r1-10900-SMxxx0.0
+- Reduced Notification Flickers
+- Fixed Theme reset issue
+- Some misc changes (you can check it [here](https://github.com/CorvusRom-Devices/device_xiaomi_violet/commits/11))
+ 
 ## Corvus V16.8 - Avalon
 - Source Upstream
 - Add more presets to dirac
