@@ -1,4 +1,28 @@
-## Redmi Note 5 Pro (whyred) 
+## Redmi Note 5 Pro (whyred)
+
+## Corvus V17.0 | Vanguard | Changelog
+
+- Add MIUI Camera
+- Switch to Extended EAS
+- Switch to AOSP WFD (Fix WFD)
+- Fix Theme Reset Issue on Reboot
+- Fix SystemUi Force Close
+- Fix Mic Issue For Some Users
+- Enable Blur & Fix Blur Lags
+- Update XiaomiParts (fps info, clear speaker)
+- Override readahead to 128KiB after post-boot
+- Enable pre-rendering feature
+- Switch to wahoo cpuset setup
+- Drop unused perf-profile.conf
+- SQLite performance gains
+- Smarter decisions on whether to use a 2Ghz or 5Ghz AP
+
+--Notes--
+
+- For Vanilla Build Nik Gapps Recomended
+- 72d97c5c7f3c12565b86315257d999ab Gapps Build's md5sum
+- 9671f536b655b469ea3841108adb15b4 Vanilla Build's md5sum
+- Suggestion- For Gaming, Vanilla Build Without Gapps
 
 ## Corvus V16.8 | Avalon | Changelog
 
