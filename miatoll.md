@@ -1,3 +1,26 @@
+## _Corvus-OS v17.0 Vanguard Changelogs for Miatoll_
+
+- Define OEM fast charge sysfs node.
+- Build Thermal 2.0 service.
+- Switched to in tree QTI vibrator hal.
+- Switched to prebuilt audio Hal (echo should be fixed).
+- Safety Net passing by default.
+- Ligthning+ kernel as default.
+- Added Xiaomi Parts.
+- Added HBM and CABC mode (Xiaomi Parts > LCD Features).
+- Fixed WFD.
+- Random screenlocks fixed.
+- Removed L1 hacks(use android 11 firmware if you want L1).
+- Added offline charging LED indicator.
+- Disabled multi color notification LED (miatoll has white led only).
+- Also Read Notes.
+
+--Notes--
+- Clean Flash Compulsory.
+- Bugs Reporting with logs are welcomed. (Use #miatollbug)
+- Unlimited Original Size Backup in Google Photos is removed by google itself.
+- It is Compulsory to do this after installing all Apps, Also Read/Understand/Do-it this https://del.dog/optimizedex.go
+
 ## _Corvus-OS v16.6 Paradox Changelogs for Miatoll_
 
 - added unlimited Original Size Backup in Google Photos.
