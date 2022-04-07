@@ -1,5 +1,14 @@
 ## POCO M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G 
 
+## Corvus VS2.1 Changelog (07/04/22)
+
+- Initial Android12 Release
+- Working Double tap to wake
+- Shipped with Juice-Bengal Kernel
+- Adjusted Audio Output
+- April Security Patch
+- And More Bug Fixes and Improvements
+
 ## Corvus V17.0 Changelog (26/10/21)
 
 - October Security Patch
