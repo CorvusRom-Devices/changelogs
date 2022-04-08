@@ -1,7 +1,13 @@
 ## Xiaomi MI A3 
 
-## Corvus V16.8 Changelog
+## Corvus-OS S2.1 Revolt Changelog
 
--Update redfinfp to August.
--Switch to pure R hals for A11Fw build.
--Dropped support for a10Fw build.
+-Initial A12L build.
+-Safety Net passing by default.
+-Updated ravenfp to april.
+-Added support for google dialer call recording.
+-Tried to fix voip call issue.
+
+--Notes--
+- Clean Flash Compulsory.
+- Bugs Reporting with logs are welcomed.
