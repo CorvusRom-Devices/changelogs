@@ -1,5 +1,20 @@
 ## REDMI NOTE 8 PRO
-#Corvus v16.0
+
+## Corvus vS2.1-Revolt Changelog (08/04/22)
+
+- April Security Patch
+- Safetynet Passes by deafult
+- Updated blobs from miui v12.5.7
+- Added ANX Camera
+- Added Props to make UI Smoother
+- Added FPS Unlocker for Games
+- Added Viper4AFX
+- Added GCamGO-Prebuilt v2.0
+- Added Begonia Parts
+- Added FPS Info Tile
+- And More Bug Fixes and Improvements
+- 
+## Corvus v16.0
 • Enabled MTK Neural networks HAL
 • Updated APN Configs
 • Switched to Enforcing Build
