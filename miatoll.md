@@ -1,3 +1,14 @@
+## _Corvus-OS vS2.1 Revolt Changelogs for Miatoll_
+- Initial A12L build
+- Safety Net passing by default.
+- Etherious kernel as default.
+- Added Xiaomi Parts.
+- Screen recording lag fixed
+- Also Read Notes.
+
+--Notes--
+- Clean Flash Compulsory.
+- Bugs Reporting with logs are welcomed. (Use #miatollbug)
 ## _Corvus-OS v17.0 Vanguard Changelogs for Miatoll_
 
 - Define OEM fast charge sysfs node.
