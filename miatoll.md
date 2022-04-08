@@ -4,11 +4,13 @@
 - Etherious kernel as default.
 - Added Xiaomi Parts.
 - Screen recording lag fixed
+- Need to set apn manually 
 - Also Read Notes.
 
 --Notes--
 - Clean Flash Compulsory.
 - Bugs Reporting with logs are welcomed. (Use #miatollbug)
+
 ## _Corvus-OS v17.0 Vanguard Changelogs for Miatoll_
 
 - Define OEM fast charge sysfs node.
