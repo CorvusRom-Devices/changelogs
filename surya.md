@@ -1,3 +1,14 @@
+## Corvus vS2.1-Revolt-Official-surya
+- April Security Patch
+- Compiled with proton-clang
+- Update blobs from V12.5.5.0.RJGMIXM 
+- Add Stereo config channel support to usb surround sound 
+- Switch back to QCOM WFD
+- Added Props to make UI Smoother
+- Added FPS Unlocker for games
+- And More Bug Fixes and Improvements
+
+
 **Corvus 14.5-Mutate_Device Changelog:**
 
 • Synced with latest source changes. 
