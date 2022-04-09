@@ -1,5 +1,15 @@
 ## Redmi Note 5 Pro (whyred)
 
+## Corvus VS2.1 | Revolt | Changelog
+
+- Initial A12.1 build with April patch
+
+--Notes--
+
+- Clean Flash Compulsory.
+- For custom kernel - flash QTI Haptic supported kernels 
+- Bugs Reporting with logs are welcomed.
+
 ## Corvus V17.0 | Vanguard | Changelog
 
 - Add MIUI Camera
