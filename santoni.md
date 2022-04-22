@@ -1,27 +1,9 @@
-Read Before Flashing
-
-Note:-
-Use Bitgapps for better result.
-
-Use TWRP 3.4.0 or PB recovery for flash. 
-If you face compatibility error with OrangeFox then remove compatibility from zip folder.
-
-Device Changelog:
-
-•Updated Some Blobs.
-
-•Used Luuvy Kernel.
-
-•Uprev powerHintAsync to 1.2.
-
-•Some other improvements.
-
-•Fixed Mi-Sound Enhancer.
-
-•Fixed Gcam Crash Issue.
-
-•Tried to Fix Animation Lags. If You Still Face Set Animation From Developer Option to Lower Stat.
-
-
-
-
+ ## Corvus VS2.1 - Revolt
+- Synced Corvus vS2.1 changes
+- Initial Official Build
+- April Sec Patch
+- Selinux: Enforcing
+- Removed Sound Trigger support (its unstable)
+- Fixed calling sound issue on headset
+- Kernel: 4.9.227 (CAF) - LA.UM.10.6.2.r1-01600-89xx.0 (Clang 14.0.2)
+- Misc. Fixes and Improvements
