@@ -129,6 +129,72 @@
 		✕ - Cross
 -->
 
+## CorvusOS vS2.1 Revolt
+### 2022-04-23 (Beta-Official)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>✕</td>
+		<td>
+        	<table>
+                <tr>
+                	<th>VNDK Lite</th>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                	<th>VNDK Non-Lite</th>
+                    <td>✓</td>
+                </tr>
+        	</table>
+        </td>
+	</tr>
+</table>
+
+- Drop more secure variant, now automatically copies model information
+- Remove phh-su
+- Fixed UDFPS with custom UdfpsExtension
+- Add Vendor Security Update information to About phone
+- Various patches from eremitein
+- Meizu 18 vibration patches from Andy Yan
+- Added OTA support
+
+### 2022-04-20 (Beta-Official)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>✕</td>
+		<td>
+        	<table>
+                <tr>
+                	<th>VNDK Lite</th>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                	<th>VNDK Non-Lite</th>
+                    <td>✓</td>
+                </tr>
+        	</table>
+        </td>
+	</tr>
+</table>
+
+- Updated patches to Phh v412
+- Updated to CorvusOS vS2.1
+- Enabled FOD icons and animations
+- Enabled Raven features
+- Now obtains Bluetooth name from your device
+- New SPen Pointer overlay
+
 ## CorvusOS v16.8 Avalon
 ### 2021-08-25 (Beta-Official)
 <table>
