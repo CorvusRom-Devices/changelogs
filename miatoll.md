@@ -1,3 +1,14 @@
+## _Corvus-OS vS3.0 Revenant Changelogs for Miatoll_
+- DFC kernel as default.
+- Added CABC mode.
+- Fixed missing apn.
+- Also Read Notes.
+
+--Notes--
+- Clean Flash Compulsory (Dont spam bugs if didnt clean flashed).
+- If getting google play services drain use the #gms_fix note in support group
+- Bugs Reporting with logs are welcomed. (Use #miatollbug)
+
 ## _Corvus-OS vS2.1 Revolt Changelogs for Miatoll_
 - Initial A12L build
 - Safety Net passing by default.
