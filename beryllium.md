@@ -1,15 +1,10 @@
-• Updated Fingerprint To Coral October Security Patch
+## Corvus-OS vS3.0 Revenant Changelogs for Poco F1(beryllium)
 
-• Added missing autobrightness overlay
+- Enabled blur by default.
+- Upstreamed Gear kernel to latest 4.9.315.
+- Safetynet passes by default.
+- Updated Blobs from Oneplus 6.
+- Switched to user build.
 
-• Updated build desc to latest Miui v12.0.2.0
 
-• Added missing GPS config file
-
-• Localise NTP to improve GPS TTFF
-
-• Added Qualcomm's improve touch binaries
-
-• Enabled Freeform Multiwindow
-
-• Updated vendor security patch to MIUI v12.0.2.0
+ 
