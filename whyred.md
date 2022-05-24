@@ -1,5 +1,25 @@
 ## Redmi Note 5 Pro (whyred)
 
+## Corvus VS3.0 | Revenant | Changelog
+
+- May Security patch
+- Drop Blur props
+- Drop Xiaomi dirac
+- Address init denial 
+- Use phase offsets as duration
+- Update sf offset values from raven 
+- Disable debug.sf.latch_unsignaled
+- Fix deprecated power profile items
+- Drop no longer necessary libbase include dir
+- Copy cgroups and task_profiles directly from system/core
+
+
+--Notes--
+
+- For custom kernel - flash QTI Haptic supported kernels 
+- Bugs Reporting with logs are welcomed.
+
+
 ## Corvus VS2.1 | Revolt | Changelog
 
 - Initial A12.1 build with April patch
