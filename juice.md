@@ -1,5 +1,11 @@
 ## POCO M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G 
 
+## Corvus V3.0 Changelog (24/05/22)
+
+- Bump to May 2022 Security Patch
+- Shipped with Juice-Bengal Kernel
+- More Bug Fixes and Improvements
+
 ## Corvus VS2.1 Changelog (07/04/22)
 
 - Initial Android12 Release
