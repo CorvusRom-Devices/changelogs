@@ -1,5 +1,19 @@
 ## Redmi 6 Pro (sakura) 
 
+## Corvus VS3.0 | Revenant | Changelog
+
+- Update Redfin fp to May
+- Use latest Reanme Kernel v4.9.304
+- Remove vendor RenderScript implementation
+- Disable SDM Scalar
+- Update camera props
+- Improve ZSL/HDR processing
+- Misc changes & Improvements
+
+:- Notes
+
+- Use Nikgapps for vanilla Build
+
 ## Corvus V16.8 | Avalon | Changelog
 
 - Update Redfin fp to August
@@ -24,23 +38,3 @@
 
 - Use Nikgapps for vanilla Build
 - Facing random screenlocks , turn off reticker notification
-- corvus v16.8 and all future build are available on pling in filename empty 
-
-
-## Corvus v16.7 changelog
-
-- Update Redfin Fp to July
-- Add new camera2 hardware features
-- Explicitly enable IORap and IORapd prefetching(reduce app launching time)
-- Add Pixel 2016 exclusive xml(for unlimited backup on google photos)
-- Adapt ANT+ for CAF
-- Build Missing Camera Blobs
-- Build Missing Display Blobs
-- Add XiaomiParts
-- Add GcamGo
-- Update missing SPKR and HP combo device usecase path 
-- Add support for 32/48KHz voip
-- Enable Stereo channel support for voip over audio path 
-- Enable incall music and add incall music profile 
-- Add mixer controls for call screen support 
-- Add 48khz sampling rate to spkr prot tx 
