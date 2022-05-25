@@ -1,5 +1,17 @@
 # Mi A1 tissot
 
+#Corvus V.S3.0 Changelog (24/5/22)
+
+-A12 Initial Build
+
+-Built Userdebug and Enforcing
+
+-Fixed Statusbar Padding
+
+-Debloated some GApps
+
+-Safetynet passes by default
+
 
 # Corvus V17.0 Changelog (26/10/21)
 
