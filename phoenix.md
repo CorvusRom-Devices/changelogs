@@ -1,7 +1,20 @@
- Xiaomi Poco X2 (Corvus vS2.1)
+ Xiaomi Poco X2 (Corvus vS3.0)
 
 #####Device changelogs:#####
 
-- Uses redclif kernel
-- Initial A12.1 build with April patch
-- Further bugs to mentioned to the maintainer
+- Switched to sb kernel
+- Fixed heating issue (dont change kernel)
+- Improved Ui smoothness.
+- Add support for LCD HBM and CABC.
+- Enable hapticTextHandle.
+- Added Refresh rate switcher.
+- Added gaming touch sensitivity (available in battery section)
+- Added now playing.
+- Enable config_vibrateOnIconAnimation.
+- Enable USB and skin temperature warnings.
+- Switch to Vulkan UI renderer.
+- 2.0 qti thernal service.
+- Improved fingerprint unlocked speed .
+- Added pill notech switch option.
+- Inproved dirac.
+-  Much More (Full rebased device tree credits- Sharma_G)
