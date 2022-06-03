@@ -129,6 +129,36 @@
 		✕ - Cross
 -->
 
+## CorvusOS vS3.0 Revenant
+### 2022-06-03 (Beta-Official)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>✕</td>
+		<td>
+        	<table>
+                <tr>
+                	<th>VNDK Lite</th>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                	<th>VNDK Non-Lite</th>
+                    <td>✓</td>
+                </tr>
+        	</table>
+        </td>
+	</tr>
+</table>
+
+- Updated patches to Phh v413
+- Updated to CorvusOS vS3.0
+- Enabled FOD icons and animations
+
 ## CorvusOS vS2.1 Revolt
 ### 2022-04-23 (Beta-Official)
 <table>
