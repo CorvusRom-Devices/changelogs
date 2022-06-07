@@ -1,5 +1,14 @@
 # Mi A1 tissot
 
+#Corvus VS3.1 Medusa Changelog (07/06/22)
+
+-Source Upstreamed to Medusa
+
+-Kernel Upstreamed to 4.9.312
+
+-Fixed an issue with Instagram reels and YouTube shorts freezing on upstreamed kernel
+
+
 #Corvus V.S3.0 Changelog (24/5/22)
 
 -A12 Initial Build
