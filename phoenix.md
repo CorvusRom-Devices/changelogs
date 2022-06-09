@@ -1,3 +1,15 @@
+ Xiaomi Poco X2 (Corvus vS3.1)
+ 
+ #####Device Changelog######
+ 
+- Added minimum and maximum Refresh rate switcher.
+- switched to Redcliffe's kernel.
+
+ 
+ 
+ 
+ 
+ 
  Xiaomi Poco X2 (Corvus vS3.0)
 
 #####Device changelogs:#####
