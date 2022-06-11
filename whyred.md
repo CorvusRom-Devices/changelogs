@@ -1,5 +1,15 @@
 ## Redmi Note 5 Pro (whyred)
 
+## Corvus VS3.1 | Medusa | Changelog
+
+- Add Xiaomi dirac
+- Switch to AOSP BT
+
+--Notes--
+
+- For custom kernel - flash QTI Haptic supported kernels 
+- Bugs Reporting with logs are welcomed.
+
 ## Corvus VS3.0 | Revenant | Changelog
 
 - May Security patch
