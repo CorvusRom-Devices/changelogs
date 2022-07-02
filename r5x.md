@@ -1,3 +1,23 @@
+## Corvus-OS vS3.2 Vindicate Changelogs for Realme 5 Series (r5x)
+
+- Upstreamed Graveyard Kernel To 4.14.285
+- RealmeDirac: Add bass booster preset
+- Enabled ffmpeg codec detection
+- Drop uneeded OPPO rootdir scripts
+- Fixed Offline Charging
+- Enabled Qualcomm TrueWireless™ Stereo audio
+- Update Brightness configs from AOSP
+- Cleanup vendor interfaces
+- Lowered Both CPU Cluster Min Freq
+- Dropped init.qcom.post_boot.sh and moved to new Perf Init
+- Switched To kernelspace battery saver
+- Many More Optimizations Under The Hood
+
+--Notes--
+- Clean Flash Recommended But Can Do Dirty. (Take NanDroid Backup Just In Case)
+- Bugs Reporting with logs are welcomed. (Use #r5xbug)
+
+
 ## Corvus-OS vS3.1 Medusa Changelogs for Realme 5 Series (r5x) 
  
 - Upstreamed Graveyard Kernel To 4.14.282 
