@@ -1,10 +1,8 @@
-## Corvus-OS vS3.0 Revenant Changelogs for Poco F1(beryllium)
+# Corvus-OS vS3.2 Vindicate Changelogs for Poco F1(beryllium)
 
-- Enabled blur by default.
-- Upstreamed Gear kernel to latest 4.9.315.
+- User build.
 - Safetynet passes by default.
-- Updated Blobs from Oneplus 6.
-- Switched to user build.
-
+- June security patch.
+- Some othet fixes and improvements.
 
  
