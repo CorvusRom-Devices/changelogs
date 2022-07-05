@@ -1,5 +1,13 @@
 ## REDMI NOTE 8 PRO
 
+
+## Corvus vS3.2-Vindicate Changelog (05/07/22)
+- June Security Patch
+- Enable EAS instead of HMP 
+- Set cpu "runtime variant" to cortex-a76 
+- Adapt for A12L QPR3 statusbar height API 
+- Credits - DarkJoker360, valap & SoldatSempai
+
 ## Corvus vS2.1-Revolt Changelog (08/04/22)
 
 - April Security Patch
