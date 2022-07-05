@@ -1,14 +1,20 @@
- Xiaomi Poco X2 (Corvus vS3.1)
+Xiaomi Poco X2(Corvus V3.2)
+#######Device Changelog######
+
+Fixed Handsfree ok google detection.
+
+
+Xiaomi Poco X2 (Corvus vS3.1)
  
  #####Device Changelog######
  
 - Added minimum and maximum Refresh rate switcher.
 - switched to Redcliffe's kernel.
 
+
  
  
- 
- 
+
  
  Xiaomi Poco X2 (Corvus vS3.0)
 
