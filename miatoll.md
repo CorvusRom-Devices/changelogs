@@ -1,3 +1,14 @@
+## _Corvus-OS vS3.2 Vindicate Changelogs for Miatoll_
+- Fixed battery and heat isuue
+- Minor fixes and improvement 
+- Also Read Notes.
+
+--Notes--
+- Some apps like FB lite, Plus Messenger etc... are crashing 
+- Clean Flash Compulsory (Dont spam bugs if didnt clean flashed).
+- If getting google play services drain use the #gms_fix note in support group
+- Bugs Reporting with logs are welcomed. (Use #miatollbug)
+
 ## _Corvus-OS vS3.0 Revenant Changelogs for Miatoll_
 - DFC kernel as default.
 - Added CABC mode.
