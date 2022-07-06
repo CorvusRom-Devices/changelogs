@@ -1,6 +1,18 @@
 # Mi A1 tissot
 
-#Corvus VS3.1 Medusa Changelog (07/06/22)
+##Corvus VS3.2 Vindicate Changelog (06/0722)
+
+-Source Upstreamed to Vindicate
+
+-June Security Patch
+
+-Fixed Chromium and Netflix Crashing
+
+-Now User Build!
+
+-Minor Bug Fixes and Improvements
+
+##Corvus VS3.1 Medusa Changelog (07/06/22)
 
 -Source Upstreamed to Medusa
 
@@ -9,7 +21,7 @@
 -Fixed an issue with Instagram reels and YouTube shorts freezing on upstreamed kernel
 
 
-#Corvus V.S3.0 Changelog (24/5/22)
+##Corvus V.S3.0 Changelog (24/5/22)
 
 -A12 Initial Build
 
