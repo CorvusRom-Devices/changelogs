@@ -129,6 +129,42 @@
 		✕ - Cross
 -->
 
+## CorvusOS vS3.2 Vindicate
+### 2022-07-09 (Official)
+<table>
+	<tr>
+		<th>Architecture / Type</th>
+		<th>A Only</th>
+		<th>A/B</th>
+	</tr>
+	<tr>
+		<th>ARM64</th>
+		<td>✕</td>
+		<td>
+        	<table>
+                <tr>
+                	<th>VNDK Lite</th>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                	<th>VNDK Non-Lite</th>
+                    <td>✓</td>
+                </tr>
+        	</table>
+        </td>
+	</tr>
+</table>
+
+- CorvusOS vS3.2 Vindicate
+- Frameworks SPL: July 2022
+- Google Apps SPL: June 2022
+- PHH patches: v414
+- Introduing: Slim Gapps variant
+- Switch to using prop modifications for FOD color
+- Now allows user to change the FPS Info QS Tile's sys node path
+- Now shows you the device info correctly in CorvusOS device info panel
+- Now includes Camera2 by default
+
 ## CorvusOS vS3.0 Revenant
 ### 2022-06-03 (Beta-Official)
 <table>
