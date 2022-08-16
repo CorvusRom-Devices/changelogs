@@ -1,3 +1,33 @@
+## Corvus-OS vS4.0 Leviathan Changelogs for Realme 5 Series (r5x)
+
+- Fully Fixed Random Freeze For Few Units
+- Upstreamed Kernel To 4.14.290
+- Switched To Simple Low Memory Killer
+- Highly Tuned & Undervolt  GPU
+- Enabled Aggressive DeepSleep
+- Fixed Various Memory Leaks specially Camera
+- Optimized Console FrameBuffer Rate
+- Fixed Slow Charging While Display Is On
+- Enabled USB Force FastCharge By Default
+- Update Power HAL & PowerHint From Pixel
+- Fixed DT2W Toggle
+- Addressed Some More Denials
+- Fully Fixed Auxillary Cameras
+- Fixed GPS Accuracy For Asia (Now Lightning Fast)
+- Fixed Screen Tear On Text Scrolling
+- Disabled Phantom Process Monitoring
+- Disabled Post Render CleanUp
+- Fixed Lag On YouTube 1440p/2k Video Playback
+- Boosted Mic Volume Input System Wide & UserSpace
+- RealmeDirac: Adapt To SnowCone UI And Update Strings
+- Many More Improvements Under The Hood
+
+--Notes--
+- Clean Flash Recommended But Can Do Dirty. (Take NanDroid Backup Just In Case)
+- Bugs Reporting with logs are welcomed. (Use #r5xbug)
+- Happy Flashing !
+
+
 ## Corvus-OS vS3.2 Vindicate Changelogs for Realme 5 Series (r5x)
 
 - Upstreamed Graveyard Kernel To 4.14.285
