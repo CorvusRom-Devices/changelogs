@@ -1,3 +1,15 @@
+## _Corvus-OS vS4.0 Leviathan Changelog for Miatoll_
+- Fixed app crash issue
+- Minor fixes and improvement 
+- [**Device side update**](https://github.com/CorvusRom-Devices/device_xiaomi_sm6250-common/commits/12-wip)
+- Also Read Notes.
+
+--Notes--
+- **APN settings crashes when setting one, will release a hotfix when fixed.**
+- Clean Flash Compulsory (Dont spam bugs if didnt clean flashed).
+- If getting google play services drain use the #gms_fix note in support group
+- Bugs Reporting with logs are welcomed. (Use #miatollbug)
+
 ## _Corvus-OS vS3.2 Vindicate Changelogs for Miatoll_
 - Fixed battery and heat isuue
 - Minor fixes and improvement 
