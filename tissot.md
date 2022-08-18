@@ -1,5 +1,17 @@
 # Mi A1 tissot
 
+## Corvus-OS vS4.0 | Leviathan |
+
+- Source Upstreamed to Leviathan
+ 
+- August security patch
+ 
+- Tweaked kernel to improve battery backup
+
+- Crashes fixed in source of reddit, facebook , etc
+
+- Minor bug fixes and improvements
+
 ##Corvus VS3.2 Vindicate Changelog (06/0722)
 
 -Source Upstreamed to Vindicate
