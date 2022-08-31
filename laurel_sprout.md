@@ -1,12 +1,10 @@
 ## Xiaomi MI A3 
 
-## Corvus-OS S2.1 Revolt Changelog
+## Corvus vS4.0 | Leviathan | Changelog
 
--Initial A12L build.
+-Merged August security patch.
 -Safety Net passing by default.
--Updated ravenfp to april.
--Added support for google dialer call recording.
--Tried to fix voip call issue.
+-Only Gapps build.
 
 --Notes--
 - Clean Flash Compulsory.
