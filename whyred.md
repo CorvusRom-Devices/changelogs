@@ -1,5 +1,19 @@
 ## Redmi Note 5 Pro (whyred)
 
+## Corvus VS4.0 | Leviathan | Changelog
+
+- Add Smart charging
+- Import rounded corner overlay from bonito
+- Relax WiFi re-association RSSI thresholds
+- Fix Sensorservice HAL
+- Unpin updatable-media from memory
+
+--Notes--
+
+- For custom kernel - flash QTI Haptic supported kernels 
+- Bugs Reporting with logs are welcomed.
+
+
 ## Corvus VS3.2 | Vindicate | Changelog
 
 - Fixed DT2W
