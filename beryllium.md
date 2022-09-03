@@ -1,8 +1,8 @@
-# Corvus-OS vS3.2 Vindicate Changelogs for Poco F1(beryllium)
+## Corvus v4.0-Leviathan Changelogs for Poco F1(beryllium)
 
+- NON SYSTEM_EXT Build.
 - User build.
 - Safetynet passes by default.
-- June security patch.
-- Some othet fixes and improvements.
-
+- August security patch.
+- VC Fixed
  
