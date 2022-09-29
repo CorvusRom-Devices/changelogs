@@ -1,5 +1,11 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus VT5.0 - El-Dorado
+- Intial build 
+- Encrypted by default
+- Gcam go Default
+- SeLinux: Enforcing
+
 ## Corvus VS3.2 - Vindicate
 - Update various blobs
 - Increase ZRAM size to 50%
