@@ -32,3 +32,4 @@
 - Increase volume speaker
 - Disable proximity usage during doze and pulse
 - RECOMMENDED FIRMWARE IS 13.0.7
+- If you dont want EROFS. Just dirty flash 4.1 build over 4.0
