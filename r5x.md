@@ -1,3 +1,28 @@
+
+## Corvus-OS vS4.1 Eclipse Changelogs for Realme 5 Series (r5x)
+
+- Upstreamed Kernel To 4.14.295
+- Kernel Built With WeebX Clang 15
+- Updated RealmeDirac (icons, tile icon, strings)
+- Fixed Camera HDR Processing In '5s' Variant
+- Dropped Some Unnecessary Blobs
+- Updated DSP, ADSP, Bluetooth, Graphics & Wi-Fi Blobs
+- Set Proper Device Model Name From Oppo prjVersion
+- Set CPU scaling_max_freq Explicitly
+- Enabled Aggressive Write Caching
+- Force 24-bit audio For Primary Output
+- Tuned Fling For Smoother Scrolling & Better Responsiveness
+- Enable LZ4 Compression For Ramdisk
+- Cleaned Many Deprecated /rootdir Scripts
+
+- Many More Improvements Under The Hood
+
+--Notes--
+- Clean Flash Recommended But Can Do Dirty. (Take NanDroid Backup Just In Case)
+- Bugs Reporting with logs are welcomed. (Use #r5xbug)
+- Happy Flashing !
+
+
 ## Corvus-OS v5.0 El-Dorado Changelog for Realme 5 Series (r5x)
 
 - Initial Android 13 Release
