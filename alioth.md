@@ -17,3 +17,18 @@
 - Added props for better ram management
 - Detect turbo charger like MIUI
 - Using Lahaina Graphics stack
+
+## _Corvus-OS vS4.1 Eclipse Changelogs for alioth
+- Reverted Lahaina Graphics stack(some kernels not booting with it)
+- Added EROFS support
+- Enable LZ4 compression for ramdisks 
+- Update CarrierConfig from munch V13.0.4.0.SLMMIXM
+- Silence some denials
+- Enable qcrild and data services 
+- Import latest changes from CAF
+- Use stock display configs
+- Enable volume leveller in Dolby
+- Update Dax-default.xml
+- Increase volume speaker
+- Disable proximity usage during doze and pulse
+- RECOMMENDED FIRMWARE IS 13.0.7
