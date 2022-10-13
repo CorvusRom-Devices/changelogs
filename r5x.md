@@ -1,3 +1,17 @@
+## Corvus-OS v5.0 El-Dorado Changelog for Realme 5 Series (r5x)
+
+- Initial Android 13 Release
+- Safetynet Passes By Default
+- Selinux Is Enforcing
+- Encrypted By Default (Format /data is mandatory on clean flash)
+
+--Notes--
+
+- No Known Issues. Incase You Find Any, Report With Proper Logs (Use #r5xbug)
+- Clean Flash Is Must, Even If You Are Using Corvus A12L
+- Since It's Initial A13 Release some customization tabs are empty, don't report it as bug
+- Happy Flashing !
+
 ## Corvus-OS vS4.0 Leviathan Changelogs for Realme 5 Series (r5x)
 
 - Fully Fixed Random Freeze For Few Units
