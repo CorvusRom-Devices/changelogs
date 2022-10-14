@@ -1,5 +1,11 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus VS4.1 - Eclipse
+- Update various blobs
+- Switch to SkiaGl
+- Fixed Charging Speeds
+- Many under the hood changes [Check Here](https://github.com/CorvusRom-Devices/device_xiaomi_violet/commits/12L)
+
 ## Corvus VT5.0 - El-Dorado
 - Intial build 
 - Encrypted by default
