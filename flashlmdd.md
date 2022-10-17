@@ -1,5 +1,19 @@
 ## LG V50 ThinQ
 
+## Corvus v4.1-Eclipse Changelog
+- Drop Screen Resolution Changer (This feature is not stable. We will re-add it in A13 builds)
+- Add config for Battery Stats
+- Move volume panel to left side by default
+- Fix screen on / off animation to correct power button position
+- Fix Youtube shorts issue
+- Use WeebX clang 15 for kernel instead off GCC
+- Dragon kernel upstream to 4.14.295
+- Switch back to zram and disable Simple LMK due to bad memory management in 4.0
+
+--Notes--
+- Vanilla build may have some issues: Current app is closed due to coming message, phone call (AOSP dialer, messages), App info crashing. I don't recommend to use vanilla build.
+- 
+
 ## Corvus v4.0-Leviathan Changelog
 - Include BSG Gcam v8.1
 - Implement KProfiles to manage profiles in terms of battery backup and performance
