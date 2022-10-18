@@ -1,5 +1,22 @@
 # Mi A1 tissot
 
+
+## Corvus-OS vS4.1 | Eclipse |
+
+- Source Upstreamed to Eclipse
+
+- October Security Patch
+
+- Added props to make the rom smooth
+
+- Improved Ram Management
+
+- Fixed Delay bug on quick settings
+
+- Improve in general performance and battery life
+
+- Many features added source side: check source changelog
+
 ## Corvus-OS vS4.0 | Leviathan |
 
 - Source Upstreamed to Leviathan
