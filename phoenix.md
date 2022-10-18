@@ -1,3 +1,4 @@
-#####Device Changelog for Corvus v4.0 Leviathan####
-Fixed Fingerprint Location.
-Some bug Fixes and Stability Improvement.
+#####Device Changelog for Corvus v5.0 El-Dorado####
+Initial Android 13 Update.
+Need Clean Flash.
+
