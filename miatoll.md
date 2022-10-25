@@ -1,3 +1,15 @@
+## _Corvus-OS vS4.1 Eclipse Changelog for Miatoll_
+- Fixed random wifi disconnecting issue.
+- APN fixed.
+- Minor fxes and improvement.
+- Also Read Notes.
+
+--Notes--
+- ANX crashes, use [SonalSingh18 ANX cam instead](https://t.me/miatoll/3630)
+- Clean Flash Compulsory (Dont spam bugs if didnt clean flashed).
+- If getting google play services drain use the #gms_fix note in support group
+- Bugs Reporting with logs are welcomed. (Use #miatollbug)
+
 ## _Corvus-OS vS4.0 Leviathan Changelog for Miatoll_
 - Fixed app crash issue
 - Minor fixes and improvement 
