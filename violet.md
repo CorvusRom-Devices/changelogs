@@ -1,5 +1,17 @@
 # Redmi Note 7 Pro Violet
 
+## Corvus VS4.1 - Eclipse - Hotfix
+- Switched to User Build
+- Fixed App info crash for vanilla
+- Added Stable ANXCamera
+- Fixed Wifi Display & Youtube Cast
+- Added Support for Smart Charging
+- Fixed ScreenRecord Lag
+- Fixed Offline Charging LED
+- Added DiracTileService long-click to DiracActivity
+- Fixed Pixel Battery Graph crash for vanilla users
+- Fixed MTP & File Copying issue
+
 ## Corvus VS4.1 - Eclipse
 - Update various blobs
 - Switch to SkiaGl
