@@ -1,3 +1,14 @@
+## _Corvus-OS vS4.1 Eclipse Changelogs for Raphael (29/10/2022)_
+<br>
+
+- Initial and yet EOL 12L release. lOl!
+- Source Update
+- Enabled Smart Charging
+- Enabled Battery Health overlays
+- Added BSG 8.5 as prebuilt GCam
+- Switched to Custom and Upstreamed Soviet Star Kernel by Pc1598
+
+
 ** vS3.1 Medusa Changelogs **
 
 - Refer [Here](https://github.com/SukeeratSG/dump-public/blob/iron/Announcements/raphael.md)
