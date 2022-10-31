@@ -1,3 +1,12 @@
+## _Corvus-OS vS4.1 Eclipse Changelog for Miatoll [HOTFIX]_
+- Minor fxes and improvement.
+- Also Read Notes.
+
+--Notes--
+- Clean Flash Compulsory (Dont spam bugs if didnt clean flashed).
+- If getting google play services drain use the #gms_fix note in support group
+- Bugs Reporting with logs are welcomed. (Use #miatollbug)
+
 ## _Corvus-OS vS4.1 Eclipse Changelog for Miatoll_
 - Fixed random wifi disconnecting issue.
 - APN fixed.
