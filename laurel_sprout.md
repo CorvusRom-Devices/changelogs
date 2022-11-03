@@ -1,8 +1,8 @@
 ## Xiaomi MI A3 
 
-## Corvus vS4.0 | Leviathan | Changelog
+## Corvus-OS vS4.1 | Eclipse | changelog
 
--Merged August security patch.
+-EOL BUILD
 -Safety Net passing by default.
 -Only Gapps build.
 
