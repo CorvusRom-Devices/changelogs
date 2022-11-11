@@ -1,5 +1,5 @@
 vT5.1-DeJaVu
-- Added Miui Camera from Official Stock Miui - all credits to spkal
+- Added Miui Camera from Official Stock Miui - all credits to spkal for cam and 64mp fix
 - Added back Dolby Atmos, Clear Speaker, Mi Sound, etc.
 - Added per-app refresh rate settings
 - Inlined with N0kernel and built with WeebX Clang 
