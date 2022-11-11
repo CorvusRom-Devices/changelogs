@@ -1,3 +1,33 @@
+## Corvus-OS vT5.1 DejaVu Changelog for Realme 5 Series (r5x)
+
+× Dropped Encryption Fully (As per users requests)
+× Switch To AIDL Wi-Fi HAL
+× Uprev AIDL Light HAL To v2
+× Uprev Audio HAL To v7.1
+× Update Radio Blobs From LA.QSSI.12.0.r1-06500
+× Set Dalvik Based On Available RAM
+× Cleaned Up More Unused /rootdir Scripts
+× Set Missing Gralloc Display Flags
+× Added blkio Tuning From Sunfish
+× ZRAM: Set Size To 50% & max_comp_streams To 4
+× Uprev android.hardwarecamera.provider to 2.6
+× Use 256kb Buffer Size For Offload Playback
+× Ship With Disabled vbmeta
+× Added Apadtive Color Mode In Display
+× Switched To Aperture Camera
+× Enabled Call Recording For Google Dialer Explicitly
+× Use AVC 3.1 For Screen Recording
+× Updated RealmeDirac Tiles & Icons
+× Updated Xperia MuziX
+× Addressed Some More Denials
+× Many More Improvements Under The Hood
+× Happy Flashing !
+
+--Notes--
+× Clean Flash Recommended But Can Do Dirty. (Take NanDroid Backup Just In Case)
+× Bugs Reporting with logs are welcomed. (Use #r5xbug)
+× Happy Flashing !
+
 
 ## Corvus-OS vS4.1 Eclipse Changelogs for Realme 5 Series (r5x)
 
@@ -14,7 +44,6 @@
 - Tuned Fling For Smoother Scrolling & Better Responsiveness
 - Enable LZ4 Compression For Ramdisk
 - Cleaned Many Deprecated /rootdir Scripts
-
 - Many More Improvements Under The Hood
 
 --Notes--
