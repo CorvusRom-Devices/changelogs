@@ -1,3 +1,9 @@
+vT5.1-DeJaVu
+- Added Miui Camera from Official Stock Miui
+- Added back Dolby Atmos, Clear Speaker, Mi Sound, etc.
+- Added per-app refresh rate settings
+- Inlined with N0kernel and built with WeebX Clang 
+
 vS4.1-Eclipse
 - Added Dolby from OnePlus
 - Added stock vibrations and haptics
