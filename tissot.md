@@ -1,5 +1,16 @@
 # Mi A1 tissot
 
+## Corvus-AOSP vT5.1 | DejaVu |
+
+- Initial A13 Build
+
+- Shipping with latest cakeby
+
+- October Security Patch
+
+- Minor bug fixes
+
+- Improved performance and Stability 
 
 ## Corvus-OS vS4.1 | Eclipse |
 
