@@ -6,9 +6,11 @@
 
 - Shipping with latest cakeby
 
-- October Security Patch
+- November Security Patch
 
 - Minor bug fixes
+
+- Fixed FM Radio 
 
 - Improved performance and Stability 
 
