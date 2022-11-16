@@ -1,5 +1,16 @@
 ## LG V50 ThinQ
 
+## Corvus v5.1-DejaVu Changelog
+- Initial A13 build
+- Change to use Aperture instead of gcam. Aux cams are supported
+- Switch to AOSP bt stack
+- Fix AOD screen not updated
+- Dragon kernel upstream to 4.14.299
+
+--Notes--
+- Vanilla build is dropped from now on.
+- Screen Resolution setting doesn't work. Please don't use it. This will be hidden in next build.
+
 ## Corvus v4.1-Eclipse Changelog
 - Drop Screen Resolution Changer (This feature is not stable. We will re-add it in A13 builds)
 - Add config for Battery Stats
