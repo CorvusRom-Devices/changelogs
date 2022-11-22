@@ -1,3 +1,25 @@
+## Corvus-OS vT5.1 DejaVu Changelogs for Raphael (22/11/2022)
+<br>
+
+- Initial A13 build
+- Improved ram management
+- Improved Bluetooth audio
+- Added Aperture camera as default
+- Build Cheetah November FP
+- Switched to Bool-X kernel
+- Passes safety-net out of the box
+- Signature Spoofing is enabled by default for microG support
+
+
+** Notes **
+- No encryption support for f2fs users (for now), ext4 users should be good to go!
+- ScreenOffUdfps doesn't work, yet ( will be added in coming updates).
+- No default ring/notification/alarm tones set , please set them yourself.
+- ScreenOffUdfps doesn't work, yet ( will be added in coming updates).
+- Initial build, so not all features are available, please be patient.
+- Bug reports with proper and relevant logs appreciated. 
+
+
 ## _Corvus-OS vS4.1 Eclipse Changelogs for Raphael (29/10/2022)_
 <br>
 
