@@ -1,3 +1,9 @@
+## Corvus-OS v5.1 DejaVu Changelog for Lenovo Z6 Pro (zippo)
+
+- Kernel upstreamed to LA.UM.9.1.r1-12900-SMxxx0.QSSI13.0
+  & 4.14.300
+- Fixed some bugs & added new bugs
+
 ## Corvus-OS v4.0 Leviathan Changelog for Lenovo Z6 Pro (zippo)
 
 - Dropped VulkanUI Renderer
