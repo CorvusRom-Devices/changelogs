@@ -1,3 +1,9 @@
+## Corvus-OS v5.1 DejaVu Changelog for Poco F1(beryllium)
+
+- SYSTEM_EXT Build 
+- Initial A13 build
+- November Patch
+
 ## Corvus v4.1-Eclipse Changelogs for Poco F1(beryllium)
 
 - NON SYSTEM_EXT Build.
